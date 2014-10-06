@@ -105,7 +105,7 @@ Once all of the packages finish installing, in your terminal cd to the directory
 
 If everything went well this should open your browser (best with Google Chrome or Firefox) to the page http://127.0.0.1:8888/ which says IP[y]: Notebook.
 
-If you run another Linux distribution, similar packages should be available. Finally execute the file start-unix.sh.
+If you run another Linux distribution, similar packages should be available.
 
 ## Static Notebooks
 
