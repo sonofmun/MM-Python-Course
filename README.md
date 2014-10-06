@@ -26,7 +26,7 @@ We will be using Python 3 for our course. Lower versions are more or less suppor
 
 
 ## Installation
-### All platforms
+### Windows and OS X
 
 **We strongly advice you to install the Anaconda Python Distribution.** This distribution contains all the necessary modules and packages needed for this course. It is available for all platforms and provides a simple installation procedure/ You can download it from: http://continuum.io/downloads. More detailed installation instructions can be found here: http://docs.continuum.io/anaconda/install.html 
 
@@ -74,11 +74,36 @@ If everything went well this should open your browser (best with Google Chrome o
 
 ### Linux (Ubuntu/Debian)
 
-Only take these steps if you know what you are doing. Otherwise, simply download and install the Anaconda Python Distribution
+Because of some problems with Anaconda, matplotlib, and Linux, we advise you to install Python 3.4 and a virtualenv instead of using Anaconda.
+Note, you will need administrator privileges on your computer to do this.
 
-First open a terminal, then type
+First, open a terminal and type (Freetype is necessary to install matplotlib)
 
-    sudo apt-get install python3 ipython3 ipython3-notebook numpy scipy matplotlib 
+    sudo apt-get install python3, libfreetype6-dev
+    
+Once Python 3 has finished installing, go to your 'home' directory (i.e., ~) and type
+
+    virtualenv WS2014 --python=usr/bin/python3
+    
+This will create a virtualenv using Python3 into which you can install all the necessary packages for this course.  Once this is finished, type
+
+    cd WS2014
+    
+then
+
+    source bin/activate
+    
+Your virtualenv is now active.  Notice the (WS2014) before your current path in your terminal.  Now, copy the 'requirements.txt' file from the directory where this readme file is located to your ~/WS2014 folder.  
+Go back to your WS2014 folder in your terminal and then type
+
+    pip install -r requirements.txt
+    
+This will start installing all of the packages that are necessary for this course.
+Once all of the packages finish installing, in your terminal cd to the directory where this readme file and all of the IPython Notebooks are located and type
+
+    ipython notebook
+
+If everything went well this should open your browser (best with Google Chrome or Firefox) to the page http://127.0.0.1:8888/ which says IP[y]: Notebook.
 
 If you run another Linux distribution, similar packages should be available. Finally execute the file start-unix.sh.
 
