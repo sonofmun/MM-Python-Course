@@ -101,7 +101,7 @@ Go back to your WS2014 folder in your terminal and then type
 This will start installing all of the packages that are necessary for this course.
 Once all of the packages finish installing, in your terminal cd to the directory where this readme file and all of the IPython Notebooks are located and type
 
-    ipython notebook
+    ipython3 notebook
 
 If everything went well this should open your browser (best with Google Chrome or Firefox) to the page http://127.0.0.1:8888/ which says IP[y]: Notebook.
 
