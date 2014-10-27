@@ -30,17 +30,21 @@ at the command line. If you work on a Windows machine, use the following command
 
     activate py34
 
-(If this doesn't work, have a look here: http://continuum.io/blog/anaconda-python-3). After that you can start the course with double clicking the file start-windows.bat (if you are working on Windows) or start-unix.sh if you work with Linux or start-osx.command if you work on Mac OS X.
+(If this doesn't work, have a look here: http://continuum.io/blog/anaconda-python-3). After that you can start the course by typing 
+
+    ipython notebook --matplotlib=inline
+    
+Or, on Windows:
+
+    ipython notebook --matplotlib==inline
 
 ### Windows
 Download and install the Anaconda Python Distribution (see above).
 
-Double click the file start-windows.bat.
-
 If everything goes right, this should open your browser (preferably Google Chrome or Firefox) on a page http://127.0.0.1:8888/ (or something similar) which says `IP[y]: Notebook'. If for some reason, the notebook is opened by Internet Explorer, copy the URL and paste that in either Google Chrome or Firefox.
 
 ### OS X 
-Only take these steps if you know what you are doing. Otherwise, simply download and install the Anaconda Python Distribution (see above). After that, double click the file start-osx.command.
+Only take these steps if you know what you are doing. Otherwise, simply download and install the Anaconda Python Distribution (see above). 
 
 First you will need to install Xcode from the App Store. After you have successfully installed Xcode, open Xcode and go to Xcode -> preferences -> Downloads. Now click on the install button next to commandline tools. 
 
@@ -89,7 +93,7 @@ Go back to your WS2014 folder in your terminal and then type
 This will start installing all of the packages that are necessary for this course.
 Once all of the packages finish installing, in your terminal cd to the directory where this readme file and all of the IPython Notebooks are located and type
 
-    ipython3 notebook
+    ipython3 notebook --matplotlib=inline
 
 If everything went well this should open your browser (best with Google Chrome or Firefox) to the page http://127.0.0.1:8888/ which says IP[y]: Notebook.
 

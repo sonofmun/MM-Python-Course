@@ -1,15 +1,7 @@
 #!/bin/bash
-
-cd "$(dirname "$0")"
-
-source activate py34
+which ipython3
 if [[ $? == 0 ]]; then
-	ipython notebook --matplotlib=inline
+	ipython3 notebook
 else
-	which ipython3
-	if [[ $? == 0 ]]; then
-		ipython3 notebook --matplotlib=inline
-	else
-		ipython notebook --matplotlib=inline
-	fi
+	ipython notebook
 fi
