@@ -1,8 +1,8 @@
 # Python Programming for the Humanities
 
-Le langage de programmation [Python](https://www.python.org) est beaucoup utilisé dans de nombreux domaines scientifiques aujourd'hui et le langage est assez accessible pour les universitaires des humanités. Python est un excellent choix quand il s'agit de gérer des données textuelles, ce qui est typique des humanités, mais aussi quand il faut écrire un site web, gérer des données numériques, écrire un script pour faire des transformations, etc. Dans ce cahier virtuel d'exercices, nous vous présenterons le langage et apprendrons les basiques liées à l'algorithmique. Ce livre n'attend de vous aucun prérequis de programmation, même si nous espérons qu'il soit intéressant pour des personnes plus avancées. Ce livre est une tradiction et adaptation de 4 chapitres de Matt Munson issus de 10 chapitres écrits par Folgert Karsdorp du KNAW.
+Le langage de programmation Python est souvent utilisé dans les domaines scientifiques aujourd'hui. C’est un langage de programmation relativement accessible et adapté aux universitaires qui travaillent dans le domaine des humanités. Choisir Python s’avère très pertinent quand il s'agit de gérer des données textuelles, très utilisées dans les humanités, mais aussi quand il faut écrire un site web, gérer des données numériques, écrire un script pour faire des transformations, etc. Dans ce cahier virtuel d'exercices, nous vous présenterons le langage et apprendrons les basiques liés à l'algorithmique. Ce livre n'attend de vous aucun prérequis de programmation. Ce livre est une traduction et adaptation de quatre chapitres de Matt Munson (eux mêmes issus de 10 chapitres écrits par Folgert Karsdorp du KNAW).
 
-Ce document décrit une procédure d'installation pour l'ensemble des logiciels nécessaires pour le cours de python. Si vous êtes bloqués, contactez votre professeur.
+Ce document contient l’ensemble des procédures d'installation des logiciels nécessaires pour le cours de python. Si vous êtes bloqués, contactez votre professeur
 
 ## Sublime text ou PyCharm
 
@@ -12,14 +12,14 @@ Dans ce cours, nous utiliserons un logiciel qui fonctionne très bien avec Firef
 
 ## Python X ?
 
-Nous utiserons Python 3 dans notre cours. Des versions précédentes peuvent poser des problèmes.
+Nous utiserons Python 3 dans notre cours. Les versions précédentes peuvent poser des problèmes.
 
 
 ## Installation
 
 ### OS X
 
-**Nous vous conseillons d'installar la distribution Anaconda**. Elle per contient tous les modules et packages nécessaires pour ce cours. Elle est disponible pour toutes les plateformes et possède une procédure d'installation assez simple. Vous pouvez la télécharger de http://continuum.io/downloads.  Des détails pour l'installation peuvent être trouvés ici : http://docs.continuum.io/anaconda/install.html 
+**Nous vous conseillons d'installer la distribution Anaconda**. Elle contient tous les modules et packages nécessaires pour ce cours. Elle est disponible pour toutes les plateformes et possède une procédure d'installation assez simple. Vous pouvez la télécharger depuis http://continuum.io/downloads.  Des détails pour l'installation peuvent être trouvés ici : http://docs.continuum.io/anaconda/install.html 
 
 Utilisez bien la version 3.6 proposée. Une fois installée, tapez ensuite
 
@@ -35,7 +35,7 @@ source activate cours-python
 
 Cette dernière active un environnement de python qui nous permet de ne pas modifier l'environnement général de votre ordinateur. 
 
-Allez dans le repository git puis tapez dans terminal dans ce dossier
+Allez dans le repository git puis tapez dans le terminal de ce dossier
 
 ```shell
 pip install -r requirements.txt
