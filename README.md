@@ -56,7 +56,7 @@ Vous aurez besoin des droits d'administrateurs pour faire ce qui suit.
 Ouvrez un terminal et tapez :
 
 ```shell
-sudo apt-get install python3 libfreetype6-dev
+sudo apt-get install python3 libfreetype6-dev python3-pip python3-virtualenv
 ```
 
 Puis, une fois cela installé, faites :
