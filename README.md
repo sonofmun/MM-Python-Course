@@ -1,101 +1,91 @@
 # Python Programming for the Humanities
 
-The programming language [Python](http://www.python.org) is widely used within many scientific domains nowadays and the language is readily accessible to scholars from the Humanities. Python is an excellent choice for dealing with (linguistic as well as literary) textual data, which is so typical of the Humanities. In this book you will be thoroughly introduced to the language and be taught to program basic algorithmic procedures. The book expects no prior experience with programming, although we hope to provide some interesting insights and skills for more advanced programmers as well. The book consists of 10 chapters. Chapter 5 and Chapter 6 are still in draft status and not ready for use.
+Le langage de programmation [Python](https://www.python.org) est beaucoup utilisé dans de nombreux domaines scientifiques aujourd'hui et le langage est assez accessible pour les universitaires des humanités. Python est un excellent choix quand il s'agit de gérer des données textuelles, ce qui est typique des humanités, mais aussi quand il faut écrire un site web, gérer des données numériques, écrire un script pour faire des transformations, etc. Dans ce cahier virtuel d'exercices, nous vous présenterons le langage et apprendrons les basiques liées à l'algorithmique. Ce livre n'attend de vous aucun prérequis de programmation, même si nous espérons qu'il soit intéressant pour des personnes plus avancées. Ce livre est une tradiction et adaptation de 4 chapitres de Matt Munson issus de 10 chapitres écrits par Folgert Karsdorp du KNAW.
 
-This document describes the installation procedure for all the software needed for the Python class. If your stuck anywhere in the installation procedure, please do not hesitate to contact Folgert Karsdorp (folgert.karsdorp@meertens.knaw.nl).
+Ce document décrit une procédure d'installation pour l'ensemble des logiciels nécessaires pour le cours de python. Si vous êtes bloqués, contactez votre professeur.
 
-## Sublime text
+## Sublime text ou PyCharm
 
-We advice you to install a good text editor, Sublime text 2 for example. However, you are absolutely free to use your own favorite editor. For Sublime Text 2 go to http://www.sublimetext.com/ download the version for your operating system and install.
+Nous vous recommandons d'installer un bon éditeur de texte voire un bon IDE pour ce cours. Nous vous conseillons [Sublime Text](https://www.sublimetext.com) ou [PyCharm](https://www.jetbrains.com/pycharm)
 
-In the course we will be using software that works best with Google Chrome. Firefox 6 (or above) and Safari will also work. Internet Explorer is not supported. 
+Dans ce cours, nous utiliserons un logiciel qui fonctionne très bien avec Firefox et Chrome. Safari fonctionnera aussi, Internet Explorer peut poser des problèmes 
 
-We will be using Python 3 for our course. Lower versions are more or less supported, but not recommended.
+## Python X ?
+
+Nous utiserons Python 3 dans notre cours. Des versions précédentes peuvent poser des problèmes.
 
 
 ## Installation
-### Windows and OS X
 
-**We strongly advice you to install the Anaconda Python Distribution.** This distribution contains all the necessary modules and packages needed for this course. It is available for all platforms and provides a simple installation procedure/ You can download it from: http://continuum.io/downloads. More detailed installation instructions can be found here: http://docs.continuum.io/anaconda/install.html 
+### OS X
 
-Anaconda's default installation is Python 2.7. However, we will use Python 3 in this course. To install all necessary packages for Python 3, type 
+**Nous vous conseillons d'installar la distribution Anaconda**. Elle per contient tous les modules et packages nécessaires pour ce cours. Elle est disponible pour toutes les plateformes et possède une procédure d'installation assez simple. Vous pouvez la télécharger de http://continuum.io/downloads.  Des détails pour l'installation peuvent être trouvés ici : http://docs.continuum.io/anaconda/install.html 
 
-    conda create -n py34 python=3.4 anaconda
+Utilisez bien la version 3.6 proposée. Une fois installée, tapez ensuite
 
-followed by
+```shell
+conda create -n cours-python
+```
 
-    source activate py34
+suivi de
 
-at the command line. If you work on a Windows machine, use the following command instead:
+```shell
+source activate cours-python
+```
 
-    activate py34
+Cette dernière active un environnement de python qui nous permet de ne pas modifier l'environnement général de votre ordinateur. 
 
-(If this doesn't work, have a look here: http://continuum.io/blog/anaconda-python-3). After that you can start the course with double clicking the file start-windows.bat (if you are working on Windows) or start-unix.sh if you work with Linux or start-osx.command if you work on Mac OS X.
+Allez dans le repository git puis tapez dans terminal dans ce dossier
 
-### Windows
-Download and install the Anaconda Python Distribution (see above).
+```shell
+pip install -r requirements.txt
+```
 
-Double click the file start-windows.bat.
+Tapez désormais
 
-If everything goes right, this should open your browser (preferably Google Chrome or Firefox) on a page http://127.0.0.1:8888/ (or something similar) which says `IP[y]: Notebook'. If for some reason, the notebook is opened by Internet Explorer, copy the URL and paste that in either Google Chrome or Firefox.
+```shell
+ipython notebook --matplotlib=inline
+```
 
-### OS X 
-Only take these steps if you know what you are doing. Otherwise, simply download and install the Anaconda Python Distribution (see above). After that, double click the file start-osx.command.
-
-First you will need to install Xcode from the App Store. After you have successfully installed Xcode, open Xcode and go to Xcode -> preferences -> Downloads. Now click on the install button next to commandline tools. 
-
-Open spotlight and type in `terminal' to open the terminal application. (You can also go to your applications folder and then to utilities where you'll find the terminal.app)
-
-Cd to the folder where you downloaded or saved the file mac-installer.sh (probably in ~/Downloads) by using
-
-    cd /folder/of/mac-installer.sh 
-
-Run the installer with the following command. The installer will download some packages and will request for your password to install them.
-
-    . mac-installer.sh
-
-To check your installation, relaunch the terminal.app. Then type in 
-
-    ipython3 notebook --matplotlib=inline
-
-If everything went well this should open your browser (best with Google Chrome or Firefox) on the page http://127.0.0.1:8888/ which says IP[y]: Notebook.
+Si tout va bien, cela devrait ouvrir votre navigateur sur la page http://127.0.0.1:8888/ qui s'appelle IP[y]: Notebook.
 
 ### Linux (Ubuntu/Debian)
 
-Because of some problems with Anaconda, matplotlib, and Linux, we advise you to install Python 3.4 and a virtualenv instead of using Anaconda.
-Note, you will need administrator privileges on your computer to do this.
+Vous aurez besoin des droits d'administrateurs pour faire ce qui suit.
 
-First, open a terminal and type (Freetype is necessary to install matplotlib)
+Ouvrez un terminal et tapez :
 
-    sudo apt-get install python3, libfreetype6-dev
-    
-Once Python 3 has finished installing, go to your 'home' directory (i.e., ~) and type
+```shell
+sudo apt-get install python3 libfreetype6-dev
+```
 
-    virtualenv WS2014 --python=usr/bin/python3
-    
-This will create a virtualenv using Python3 into which you can install all the necessary packages for this course.  Once this is finished, type
+Puis, une fois cela installé, faites :
 
-    cd WS2014
-    
-then
+```shell
+virtualenv ~/.cours-python -p python3
+```
+Cela créera un environnement virtuel dans lequel nous pourrons installer l'ensemble des informations nécessaires. Allez, dans le terminal, dans le dossier git du cours que vous avez cloné localement et tapez :
 
-    source bin/activate
-    
-Your virtualenv is now active.  Notice the (WS2014) before your current path in your terminal.  Now, copy the 'requirements.txt' file from the directory where this readme file is located to your ~/WS2014 folder.  
-Go back to your WS2014 folder in your terminal and then type
+```shell
+source ~/.cours-python/bin/activate
+```
 
-    pip install -r requirements.txt
-    
-This will start installing all of the packages that are necessary for this course.
-Once all of the packages finish installing, in your terminal cd to the directory where this readme file and all of the IPython Notebooks are located and type
+Cette commande sera obligatoire à chaque fois que vous voudrez travailler avec le cours. Dans le même terminal, tapez maintenant
 
-    ipython3 notebook
+```shell
+pip install -r requirements.txt
+```
 
-If everything went well this should open your browser (best with Google Chrome or Firefox) to the page http://127.0.0.1:8888/ which says IP[y]: Notebook.
+Cela installera les packages nécessaires pour le cours. Une fois ces packages installés, il suffira de taper 
 
-If you run another Linux distribution, similar packages should be available.
+```shell
+ipython3 notebook
+```
+
+Si tout va bien, cela devrait ouvrir votre navigateur sur la page http://127.0.0.1:8888/ qui s'appelle IP[y]: Notebook.
 
 ## Contributors
 - Folgert Karsdorp
 - Maarten van Gompel
 - Matt Munson
+- Thibault Clérice
