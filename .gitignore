@@ -1,3 +1,4 @@
+
 env/
 .DS_Store
 .DS_Store
@@ -6,3 +7,4 @@ env/
 .ipynb_checkpoints/
 *-checkpoint.ipynb
 .pyc
+*Copy*.ipynb
