@@ -8,3 +8,6 @@ env/
 *-checkpoint.ipynb
 .pyc
 *Copy*.ipynb
+*.pyc
+.~lock*
+__pycache__
