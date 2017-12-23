@@ -1,0 +1,4843 @@
+{
+  "statuses": [
+    {
+      "created_at": "Sat Dec 23 09:56:23 +0000 2017",
+      "id": 9.4450696715394e+17,
+      "id_str": "944506967153938432",
+      "text": "RT @elieallouche: Lancement d'un Master #humanit\u00e9snum\u00e9riques et #\u00e9ducation https:\/\/t.co\/9hN6aFvpGK via @michaelbourgatt",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "humanit\u00e9snum\u00e9riques",
+            "indices": [
+              40,
+              60
+            ]
+          },
+          {
+            "text": "\u00e9ducation",
+            "indices": [
+              64,
+              74
+            ]
+          }
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "elieallouche",
+            "name": "Elie Allouche",
+            "id": 59176934,
+            "id_str": "59176934",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "michaelbourgatt",
+            "name": "Michael Bourgatte",
+            "id": 313817360,
+            "id_str": "313817360",
+            "indices": [
+              103,
+              119
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/9hN6aFvpGK",
+            "expanded_url": "https:\/\/www.icp.fr\/formations\/diplomes\/masters\/master-meef-pratiques-et-ingenierie-de-la-formation-humanites-numeriques-et-innovations-educatives-76717.kjsp",
+            "display_url": "icp.fr\/formations\/dip\u2026",
+            "indices": [
+              75,
+              98
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 7.0844569496575e+17,
+        "id_str": "708445694965751808",
+        "name": "C\u00e9line Cort\u00e9s",
+        "screen_name": "cortesccd",
+        "location": "Le Perreux-sur-Marne, France",
+        "description": "prof d'espagnol #ELE, #Am\u00e9riqueLatine #numerique. R\u00e9f\u00e9rente num\u00e9rique. Auteure de manuel scolaire. Formatrice DANE #DANE94 @AcCreteil.",
+        "url": "https:\/\/t.co\/MA334rwcPs",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/MA334rwcPs",
+                "expanded_url": "http:\/\/colegiodelattre.blogspot.com",
+                "display_url": "colegiodelattre.blogspot.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 274,
+        "friends_count": 975,
+        "listed_count": 10,
+        "created_at": "Sat Mar 12 00:13:10 +0000 2016",
+        "favourites_count": 338,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 829,
+        "lang": "es",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/896784898614276096\/JH5hCxiW_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/896784898614276096\/JH5hCxiW_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/708445694965751808\/1457819010",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Dec 22 13:24:44 +0000 2017",
+        "id": 9.4419701231196e+17,
+        "id_str": "944197012311957506",
+        "text": "Lancement d'un Master #humanit\u00e9snum\u00e9riques et #\u00e9ducation https:\/\/t.co\/9hN6aFvpGK via @michaelbourgatt",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "humanit\u00e9snum\u00e9riques",
+              "indices": [
+                22,
+                42
+              ]
+            },
+            {
+              "text": "\u00e9ducation",
+              "indices": [
+                46,
+                56
+              ]
+            }
+          ],
+          "symbols": [
+            
+          ],
+          "user_mentions": [
+            {
+              "screen_name": "michaelbourgatt",
+              "name": "Michael Bourgatte",
+              "id": 313817360,
+              "id_str": "313817360",
+              "indices": [
+                85,
+                101
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/9hN6aFvpGK",
+              "expanded_url": "https:\/\/www.icp.fr\/formations\/diplomes\/masters\/master-meef-pratiques-et-ingenierie-de-la-formation-humanites-numeriques-et-innovations-educatives-76717.kjsp",
+              "display_url": "icp.fr\/formations\/dip\u2026",
+              "indices": [
+                57,
+                80
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "fr",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 59176934,
+          "id_str": "59176934",
+          "name": "Elie Allouche",
+          "screen_name": "elieallouche",
+          "location": "Ici",
+          "description": "Humanit\u00e9s num\u00e9riques et \u00e9ducation. Diffusion des savoirs. #humanit\u00e9snum\u00e9riques #\u00e9ducation #\u03c0\u03b1\u03b9\u03b4\u03b5\u03af\u03b1 #litt\u00e9ratienum\u00e9rique #EcoleNum\u00e9rique",
+          "url": "https:\/\/t.co\/JDg4OBiFwK",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/JDg4OBiFwK",
+                  "expanded_url": "https:\/\/fr.linkedin.com\/in\/elieallouche",
+                  "display_url": "fr.linkedin.com\/in\/elieallouche",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 3797,
+          "friends_count": 2392,
+          "listed_count": 206,
+          "created_at": "Wed Jul 22 16:49:57 +0000 2009",
+          "favourites_count": 3344,
+          "utc_offset": -10800,
+          "time_zone": "Greenland",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 8097,
+          "lang": "fr",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/552832955853176832\/G_iPEBZ3.jpeg",
+          "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/552832955853176832\/G_iPEBZ3.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/941621560875671552\/_N0cGV-9_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/941621560875671552\/_N0cGV-9_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/59176934\/1512744690",
+          "profile_link_color": "89C9FA",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+      },
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    },
+    {
+      "created_at": "Sat Dec 23 08:33:12 +0000 2017",
+      "id": 9.4448603197333e+17,
+      "id_str": "944486031973330944",
+      "text": "RT @seeksanusername: Tour d\u2019horizon (subjectif) de ce que j\u2019ai retenu de l\u2019ann\u00e9e 2017 pour les projets en #Humanit\u00e9sNum\u00e9riques #DH avec un\u2026",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Humanit\u00e9sNum\u00e9riques",
+            "indices": [
+              106,
+              126
+            ]
+          },
+          {
+            "text": "DH",
+            "indices": [
+              127,
+              130
+            ]
+          }
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "seeksanusername",
+            "name": "Courtin Antoine",
+            "id": 119048849,
+            "id_str": "119048849",
+            "indices": [
+              3,
+              19
+            ]
+          }
+        ],
+        "urls": [
+          
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 821099486,
+        "id_str": "821099486",
+        "name": "\u00c9ric N.",
+        "screen_name": "enbmn",
+        "location": "France - Lorraine",
+        "description": "Autour du patrimoine et du num\u00e9rique. Biblioth\u00e8que Stanislas de Nancy @bmnpatrimoine",
+        "url": "https:\/\/t.co\/ooMJ3l59pk",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/ooMJ3l59pk",
+                "expanded_url": "http:\/\/www.journaldedurival.fr\/",
+                "display_url": "journaldedurival.fr",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 325,
+        "friends_count": 235,
+        "listed_count": 35,
+        "created_at": "Thu Sep 13 08:06:04 +0000 2012",
+        "favourites_count": 161,
+        "utc_offset": 7200,
+        "time_zone": "Athens",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1028,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/378800000769874143\/c300879a58986b63c6b1f90d29ccc311_normal.jpeg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/378800000769874143\/c300879a58986b63c6b1f90d29ccc311_normal.jpeg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/821099486\/1476161534",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Dec 19 08:21:22 +0000 2017",
+        "id": 9.4303350372955e+17,
+        "id_str": "943033503729553408",
+        "text": "Tour d\u2019horizon (subjectif) de ce que j\u2019ai retenu de l\u2019ann\u00e9e 2017 pour les projets en #Humanit\u00e9sNum\u00e9riques #DH avec\u2026 https:\/\/t.co\/vycJR0Gn7j",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Humanit\u00e9sNum\u00e9riques",
+              "indices": [
+                85,
+                105
+              ]
+            },
+            {
+              "text": "DH",
+              "indices": [
+                106,
+                109
+              ]
+            }
+          ],
+          "symbols": [
+            
+          ],
+          "user_mentions": [
+            
+          ],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/vycJR0Gn7j",
+              "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/943033503729553408",
+              "display_url": "twitter.com\/i\/web\/status\/9\u2026",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "fr",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 119048849,
+          "id_str": "119048849",
+          "name": "Courtin Antoine",
+          "screen_name": "seeksanusername",
+          "location": "Paris",
+          "description": "...is about discovery, no justification #GLAMgeek",
+          "url": "https:\/\/t.co\/SS1gJWvrNv",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/SS1gJWvrNv",
+                  "expanded_url": "http:\/\/goo.gl\/KN61wV",
+                  "display_url": "goo.gl\/KN61wV",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 2748,
+          "friends_count": 928,
+          "listed_count": 403,
+          "created_at": "Tue Mar 02 14:25:03 +0000 2010",
+          "favourites_count": 6800,
+          "utc_offset": 7200,
+          "time_zone": "Athens",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 13286,
+          "lang": "fr",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/942373473715965952\/qS6dcf46_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/942373473715965952\/qS6dcf46_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/119048849\/1513534614",
+          "profile_link_color": "1B95E0",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 35,
+        "favorite_count": 55,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+      },
+      "is_quote_status": false,
+      "retweet_count": 35,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    },
+    {
+      "created_at": "Sat Dec 23 04:46:55 +0000 2017",
+      "id": 9.4442908434758e+17,
+      "id_str": "944429084347580417",
+      "text": "RT @glennhroe: Entretien\/Interview OBVIL\/ARTFL - two of my favourite acronyms, brought together... #humanit\u00e9snum\u00e9riques #digitalhumanities\u2026",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "humanit\u00e9snum\u00e9riques",
+            "indices": [
+              99,
+              119
+            ]
+          },
+          {
+            "text": "digitalhumanities",
+            "indices": [
+              120,
+              138
+            ]
+          }
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "glennhroe",
+            "name": "Glenn Roe",
+            "id": 42820326,
+            "id_str": "42820326",
+            "indices": [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4453513575,
+        "id_str": "4453513575",
+        "name": "OxUniStEnlightenment",
+        "screen_name": "OxUniEnl",
+        "location": "Oxford, England",
+        "description": "Twitter account of Oxford University Studies in the Enlightenment, published by the Voltaire Foundation of the University of Oxford.",
+        "url": "https:\/\/t.co\/6VrAHcxH80",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/6VrAHcxH80",
+                "expanded_url": "http:\/\/www.voltaire.ox.ac.uk",
+                "display_url": "voltaire.ox.ac.uk",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 566,
+        "friends_count": 343,
+        "listed_count": 15,
+        "created_at": "Fri Dec 11 23:57:34 +0000 2015",
+        "favourites_count": 414,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 469,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/684874972494364672\/-5-S4MKd_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/684874972494364672\/-5-S4MKd_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/4453513575\/1453047580",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Dec 21 21:00:23 +0000 2017",
+        "id": 9.4394929048082e+17,
+        "id_str": "943949290480816135",
+        "text": "Entretien\/Interview OBVIL\/ARTFL - two of my favourite acronyms, brought together... #humanit\u00e9snum\u00e9riques\u2026 https:\/\/t.co\/UQqCmAvSqb",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "humanit\u00e9snum\u00e9riques",
+              "indices": [
+                84,
+                104
+              ]
+            }
+          ],
+          "symbols": [
+            
+          ],
+          "user_mentions": [
+            
+          ],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/UQqCmAvSqb",
+              "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/943949290480816135",
+              "display_url": "twitter.com\/i\/web\/status\/9\u2026",
+              "indices": [
+                106,
+                129
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 42820326,
+          "id_str": "42820326",
+          "name": "Glenn Roe",
+          "screen_name": "glennhroe",
+          "location": "canberra",
+          "description": "Senior Lecturer in Digital Humanities at ANU \u2022 French Literary, Intellectual, & Book History https:\/\/t.co\/PV0iUqBX2A",
+          "url": "http:\/\/t.co\/oq9JNNt2R6",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http:\/\/t.co\/oq9JNNt2R6",
+                  "expanded_url": "http:\/\/glennroe.net",
+                  "display_url": "glennroe.net",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/PV0iUqBX2A",
+                  "expanded_url": "https:\/\/orcid.org\/0000-0002-5611-7916",
+                  "display_url": "orcid.org\/0000-0002-5611\u2026",
+                  "indices": [
+                    93,
+                    116
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 7698,
+          "friends_count": 574,
+          "listed_count": 50,
+          "created_at": "Wed May 27 05:06:22 +0000 2009",
+          "favourites_count": 1794,
+          "utc_offset": 39600,
+          "time_zone": "Melbourne",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 6262,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "5D5C5E",
+          "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/378800000176514237\/sCVk4c60.jpeg",
+          "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/378800000176514237\/sCVk4c60.jpeg",
+          "profile_background_tile": true,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/829062560611700736\/NiFj8jrd_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/829062560611700736\/NiFj8jrd_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/42820326\/1502399368",
+          "profile_link_color": "661904",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "53576B",
+          "profile_text_color": "7A7B7C",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 9,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Dec 22 19:20:49 +0000 2017",
+      "id": 9.4428662472419e+17,
+      "id_str": "944286624724193281",
+      "text": "RT @elieallouche: Lancement d'un Master #humanit\u00e9snum\u00e9riques et #\u00e9ducation https:\/\/t.co\/9hN6aFvpGK via @michaelbourgatt",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "humanit\u00e9snum\u00e9riques",
+            "indices": [
+              40,
+              60
+            ]
+          },
+          {
+            "text": "\u00e9ducation",
+            "indices": [
+              64,
+              74
+            ]
+          }
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "elieallouche",
+            "name": "Elie Allouche",
+            "id": 59176934,
+            "id_str": "59176934",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "michaelbourgatt",
+            "name": "Michael Bourgatte",
+            "id": 313817360,
+            "id_str": "313817360",
+            "indices": [
+              103,
+              119
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/9hN6aFvpGK",
+            "expanded_url": "https:\/\/www.icp.fr\/formations\/diplomes\/masters\/master-meef-pratiques-et-ingenierie-de-la-formation-humanites-numeriques-et-innovations-educatives-76717.kjsp",
+            "display_url": "icp.fr\/formations\/dip\u2026",
+            "indices": [
+              75,
+              98
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 127519041,
+        "id_str": "127519041",
+        "name": "Ga\u00eblle Charcosset",
+        "screen_name": "gcharcosset",
+        "location": "Paris",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1059,
+        "friends_count": 1420,
+        "listed_count": 84,
+        "created_at": "Mon Mar 29 13:26:03 +0000 2010",
+        "favourites_count": 9926,
+        "utc_offset": 3600,
+        "time_zone": "Paris",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1640,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme7\/bg.gif",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme7\/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/876887582495436801\/R4Yp4C-H_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/876887582495436801\/R4Yp4C-H_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/127519041\/1497901265",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Dec 22 13:24:44 +0000 2017",
+        "id": 9.4419701231196e+17,
+        "id_str": "944197012311957506",
+        "text": "Lancement d'un Master #humanit\u00e9snum\u00e9riques et #\u00e9ducation https:\/\/t.co\/9hN6aFvpGK via @michaelbourgatt",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "humanit\u00e9snum\u00e9riques",
+              "indices": [
+                22,
+                42
+              ]
+            },
+            {
+              "text": "\u00e9ducation",
+              "indices": [
+                46,
+                56
+              ]
+            }
+          ],
+          "symbols": [
+            
+          ],
+          "user_mentions": [
+            {
+              "screen_name": "michaelbourgatt",
+              "name": "Michael Bourgatte",
+              "id": 313817360,
+              "id_str": "313817360",
+              "indices": [
+                85,
+                101
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/9hN6aFvpGK",
+              "expanded_url": "https:\/\/www.icp.fr\/formations\/diplomes\/masters\/master-meef-pratiques-et-ingenierie-de-la-formation-humanites-numeriques-et-innovations-educatives-76717.kjsp",
+              "display_url": "icp.fr\/formations\/dip\u2026",
+              "indices": [
+                57,
+                80
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "fr",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 59176934,
+          "id_str": "59176934",
+          "name": "Elie Allouche",
+          "screen_name": "elieallouche",
+          "location": "Ici",
+          "description": "Humanit\u00e9s num\u00e9riques et \u00e9ducation. Diffusion des savoirs. #humanit\u00e9snum\u00e9riques #\u00e9ducation #\u03c0\u03b1\u03b9\u03b4\u03b5\u03af\u03b1 #litt\u00e9ratienum\u00e9rique #EcoleNum\u00e9rique",
+          "url": "https:\/\/t.co\/JDg4OBiFwK",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/JDg4OBiFwK",
+                  "expanded_url": "https:\/\/fr.linkedin.com\/in\/elieallouche",
+                  "display_url": "fr.linkedin.com\/in\/elieallouche",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 3797,
+          "friends_count": 2392,
+          "listed_count": 206,
+          "created_at": "Wed Jul 22 16:49:57 +0000 2009",
+          "favourites_count": 3344,
+          "utc_offset": -10800,
+          "time_zone": "Greenland",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 8097,
+          "lang": "fr",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/552832955853176832\/G_iPEBZ3.jpeg",
+          "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/552832955853176832\/G_iPEBZ3.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/941621560875671552\/_N0cGV-9_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/941621560875671552\/_N0cGV-9_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/59176934\/1512744690",
+          "profile_link_color": "89C9FA",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+      },
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    },
+    {
+      "created_at": "Fri Dec 22 16:44:15 +0000 2017",
+      "id": 9.4424722142335e+17,
+      "id_str": "944247221423353857",
+      "text": "RT @elieallouche: Lancement d'un Master #humanit\u00e9snum\u00e9riques et #\u00e9ducation https:\/\/t.co\/9hN6aFvpGK via @michaelbourgatt",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "humanit\u00e9snum\u00e9riques",
+            "indices": [
+              40,
+              60
+            ]
+          },
+          {
+            "text": "\u00e9ducation",
+            "indices": [
+              64,
+              74
+            ]
+          }
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "elieallouche",
+            "name": "Elie Allouche",
+            "id": 59176934,
+            "id_str": "59176934",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "michaelbourgatt",
+            "name": "Michael Bourgatte",
+            "id": 313817360,
+            "id_str": "313817360",
+            "indices": [
+              103,
+              119
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/9hN6aFvpGK",
+            "expanded_url": "https:\/\/www.icp.fr\/formations\/diplomes\/masters\/master-meef-pratiques-et-ingenierie-de-la-formation-humanites-numeriques-et-innovations-educatives-76717.kjsp",
+            "display_url": "icp.fr\/formations\/dip\u2026",
+            "indices": [
+              75,
+              98
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1222072728,
+        "id_str": "1222072728",
+        "name": "lx.sebastien",
+        "screen_name": "lx_seb",
+        "location": "Ile-de-France, France",
+        "description": "Professeur d'EPS, enseignant \u00e0 l'UPEC en SESS-STAPS, Acad\u00e9mie de Cr\u00e9teil, GREID-EPS",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 199,
+        "friends_count": 207,
+        "listed_count": 41,
+        "created_at": "Tue Feb 26 15:18:52 +0000 2013",
+        "favourites_count": 98,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2269,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/782340804685758464\/zK9KrAZH_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/782340804685758464\/zK9KrAZH_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1222072728\/1422834604",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Dec 22 13:24:44 +0000 2017",
+        "id": 9.4419701231196e+17,
+        "id_str": "944197012311957506",
+        "text": "Lancement d'un Master #humanit\u00e9snum\u00e9riques et #\u00e9ducation https:\/\/t.co\/9hN6aFvpGK via @michaelbourgatt",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "humanit\u00e9snum\u00e9riques",
+              "indices": [
+                22,
+                42
+              ]
+            },
+            {
+              "text": "\u00e9ducation",
+              "indices": [
+                46,
+                56
+              ]
+            }
+          ],
+          "symbols": [
+            
+          ],
+          "user_mentions": [
+            {
+              "screen_name": "michaelbourgatt",
+              "name": "Michael Bourgatte",
+              "id": 313817360,
+              "id_str": "313817360",
+              "indices": [
+                85,
+                101
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/9hN6aFvpGK",
+              "expanded_url": "https:\/\/www.icp.fr\/formations\/diplomes\/masters\/master-meef-pratiques-et-ingenierie-de-la-formation-humanites-numeriques-et-innovations-educatives-76717.kjsp",
+              "display_url": "icp.fr\/formations\/dip\u2026",
+              "indices": [
+                57,
+                80
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "fr",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 59176934,
+          "id_str": "59176934",
+          "name": "Elie Allouche",
+          "screen_name": "elieallouche",
+          "location": "Ici",
+          "description": "Humanit\u00e9s num\u00e9riques et \u00e9ducation. Diffusion des savoirs. #humanit\u00e9snum\u00e9riques #\u00e9ducation #\u03c0\u03b1\u03b9\u03b4\u03b5\u03af\u03b1 #litt\u00e9ratienum\u00e9rique #EcoleNum\u00e9rique",
+          "url": "https:\/\/t.co\/JDg4OBiFwK",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/JDg4OBiFwK",
+                  "expanded_url": "https:\/\/fr.linkedin.com\/in\/elieallouche",
+                  "display_url": "fr.linkedin.com\/in\/elieallouche",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 3797,
+          "friends_count": 2392,
+          "listed_count": 206,
+          "created_at": "Wed Jul 22 16:49:57 +0000 2009",
+          "favourites_count": 3344,
+          "utc_offset": -10800,
+          "time_zone": "Greenland",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 8097,
+          "lang": "fr",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/552832955853176832\/G_iPEBZ3.jpeg",
+          "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/552832955853176832\/G_iPEBZ3.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/941621560875671552\/_N0cGV-9_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/941621560875671552\/_N0cGV-9_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/59176934\/1512744690",
+          "profile_link_color": "89C9FA",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+      },
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    },
+    {
+      "created_at": "Fri Dec 22 15:53:47 +0000 2017",
+      "id": 9.4423452232921e+17,
+      "id_str": "944234522329210880",
+      "text": "RT @elieallouche: Lancement d'un Master #humanit\u00e9snum\u00e9riques et #\u00e9ducation https:\/\/t.co\/9hN6aFvpGK via @michaelbourgatt",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "humanit\u00e9snum\u00e9riques",
+            "indices": [
+              40,
+              60
+            ]
+          },
+          {
+            "text": "\u00e9ducation",
+            "indices": [
+              64,
+              74
+            ]
+          }
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "elieallouche",
+            "name": "Elie Allouche",
+            "id": 59176934,
+            "id_str": "59176934",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "michaelbourgatt",
+            "name": "Michael Bourgatte",
+            "id": 313817360,
+            "id_str": "313817360",
+            "indices": [
+              103,
+              119
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/9hN6aFvpGK",
+            "expanded_url": "https:\/\/www.icp.fr\/formations\/diplomes\/masters\/master-meef-pratiques-et-ingenierie-de-la-formation-humanites-numeriques-et-innovations-educatives-76717.kjsp",
+            "display_url": "icp.fr\/formations\/dip\u2026",
+            "indices": [
+              75,
+              98
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 8.2639618577466e+17,
+        "id_str": "826396185774661632",
+        "name": "Lionel Garnier",
+        "screen_name": "ePerdir",
+        "location": "Ile-de-France, France",
+        "description": "Personnel de direction - Chef de projet \u00e0 la Direction du Num\u00e9rique pour l'Education - Num\u00e9ri'lab #Pilotage #Management #Conduiteduchangement",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 173,
+        "friends_count": 27,
+        "listed_count": 6,
+        "created_at": "Tue Jan 31 11:46:19 +0000 2017",
+        "favourites_count": 143,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 373,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/826407037043105792\/UL-WdwKK_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/826407037043105792\/UL-WdwKK_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Dec 22 13:24:44 +0000 2017",
+        "id": 9.4419701231196e+17,
+        "id_str": "944197012311957506",
+        "text": "Lancement d'un Master #humanit\u00e9snum\u00e9riques et #\u00e9ducation https:\/\/t.co\/9hN6aFvpGK via @michaelbourgatt",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "humanit\u00e9snum\u00e9riques",
+              "indices": [
+                22,
+                42
+              ]
+            },
+            {
+              "text": "\u00e9ducation",
+              "indices": [
+                46,
+                56
+              ]
+            }
+          ],
+          "symbols": [
+            
+          ],
+          "user_mentions": [
+            {
+              "screen_name": "michaelbourgatt",
+              "name": "Michael Bourgatte",
+              "id": 313817360,
+              "id_str": "313817360",
+              "indices": [
+                85,
+                101
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/9hN6aFvpGK",
+              "expanded_url": "https:\/\/www.icp.fr\/formations\/diplomes\/masters\/master-meef-pratiques-et-ingenierie-de-la-formation-humanites-numeriques-et-innovations-educatives-76717.kjsp",
+              "display_url": "icp.fr\/formations\/dip\u2026",
+              "indices": [
+                57,
+                80
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "fr",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 59176934,
+          "id_str": "59176934",
+          "name": "Elie Allouche",
+          "screen_name": "elieallouche",
+          "location": "Ici",
+          "description": "Humanit\u00e9s num\u00e9riques et \u00e9ducation. Diffusion des savoirs. #humanit\u00e9snum\u00e9riques #\u00e9ducation #\u03c0\u03b1\u03b9\u03b4\u03b5\u03af\u03b1 #litt\u00e9ratienum\u00e9rique #EcoleNum\u00e9rique",
+          "url": "https:\/\/t.co\/JDg4OBiFwK",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/JDg4OBiFwK",
+                  "expanded_url": "https:\/\/fr.linkedin.com\/in\/elieallouche",
+                  "display_url": "fr.linkedin.com\/in\/elieallouche",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 3797,
+          "friends_count": 2392,
+          "listed_count": 206,
+          "created_at": "Wed Jul 22 16:49:57 +0000 2009",
+          "favourites_count": 3344,
+          "utc_offset": -10800,
+          "time_zone": "Greenland",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 8097,
+          "lang": "fr",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/552832955853176832\/G_iPEBZ3.jpeg",
+          "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/552832955853176832\/G_iPEBZ3.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/941621560875671552\/_N0cGV-9_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/941621560875671552\/_N0cGV-9_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/59176934\/1512744690",
+          "profile_link_color": "89C9FA",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+      },
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    },
+    {
+      "created_at": "Fri Dec 22 14:55:39 +0000 2017",
+      "id": 9.4421989286526e+17,
+      "id_str": "944219892865257472",
+      "text": "RT @elieallouche: Lancement d'un Master #humanit\u00e9snum\u00e9riques et #\u00e9ducation https:\/\/t.co\/9hN6aFvpGK via @michaelbourgatt",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "humanit\u00e9snum\u00e9riques",
+            "indices": [
+              40,
+              60
+            ]
+          },
+          {
+            "text": "\u00e9ducation",
+            "indices": [
+              64,
+              74
+            ]
+          }
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "elieallouche",
+            "name": "Elie Allouche",
+            "id": 59176934,
+            "id_str": "59176934",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "michaelbourgatt",
+            "name": "Michael Bourgatte",
+            "id": 313817360,
+            "id_str": "313817360",
+            "indices": [
+              103,
+              119
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/9hN6aFvpGK",
+            "expanded_url": "https:\/\/www.icp.fr\/formations\/diplomes\/masters\/master-meef-pratiques-et-ingenierie-de-la-formation-humanites-numeriques-et-innovations-educatives-76717.kjsp",
+            "display_url": "icp.fr\/formations\/dip\u2026",
+            "indices": [
+              75,
+              98
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 9.0911734258358e+17,
+        "id_str": "909117342583582720",
+        "name": "Prepaprofdoc",
+        "screen_name": "prepaprofdoc",
+        "location": "Ile-de-France, France",
+        "description": "Une prof doc contractuelle qui pr\u00e9pare pour la 2nde fois son CAFEP de documentation externe et qui se cr\u00e9e enfin un v\u00e9ritable outil de veille informationnelle!",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 134,
+        "friends_count": 737,
+        "listed_count": 4,
+        "created_at": "Sat Sep 16 18:10:39 +0000 2017",
+        "favourites_count": 680,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2165,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/937288362695839745\/RTvcrDW8_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/937288362695839745\/RTvcrDW8_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Dec 22 13:24:44 +0000 2017",
+        "id": 9.4419701231196e+17,
+        "id_str": "944197012311957506",
+        "text": "Lancement d'un Master #humanit\u00e9snum\u00e9riques et #\u00e9ducation https:\/\/t.co\/9hN6aFvpGK via @michaelbourgatt",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "humanit\u00e9snum\u00e9riques",
+              "indices": [
+                22,
+                42
+              ]
+            },
+            {
+              "text": "\u00e9ducation",
+              "indices": [
+                46,
+                56
+              ]
+            }
+          ],
+          "symbols": [
+            
+          ],
+          "user_mentions": [
+            {
+              "screen_name": "michaelbourgatt",
+              "name": "Michael Bourgatte",
+              "id": 313817360,
+              "id_str": "313817360",
+              "indices": [
+                85,
+                101
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/9hN6aFvpGK",
+              "expanded_url": "https:\/\/www.icp.fr\/formations\/diplomes\/masters\/master-meef-pratiques-et-ingenierie-de-la-formation-humanites-numeriques-et-innovations-educatives-76717.kjsp",
+              "display_url": "icp.fr\/formations\/dip\u2026",
+              "indices": [
+                57,
+                80
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "fr",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 59176934,
+          "id_str": "59176934",
+          "name": "Elie Allouche",
+          "screen_name": "elieallouche",
+          "location": "Ici",
+          "description": "Humanit\u00e9s num\u00e9riques et \u00e9ducation. Diffusion des savoirs. #humanit\u00e9snum\u00e9riques #\u00e9ducation #\u03c0\u03b1\u03b9\u03b4\u03b5\u03af\u03b1 #litt\u00e9ratienum\u00e9rique #EcoleNum\u00e9rique",
+          "url": "https:\/\/t.co\/JDg4OBiFwK",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/JDg4OBiFwK",
+                  "expanded_url": "https:\/\/fr.linkedin.com\/in\/elieallouche",
+                  "display_url": "fr.linkedin.com\/in\/elieallouche",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 3797,
+          "friends_count": 2392,
+          "listed_count": 206,
+          "created_at": "Wed Jul 22 16:49:57 +0000 2009",
+          "favourites_count": 3344,
+          "utc_offset": -10800,
+          "time_zone": "Greenland",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 8097,
+          "lang": "fr",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/552832955853176832\/G_iPEBZ3.jpeg",
+          "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/552832955853176832\/G_iPEBZ3.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/941621560875671552\/_N0cGV-9_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/941621560875671552\/_N0cGV-9_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/59176934\/1512744690",
+          "profile_link_color": "89C9FA",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+      },
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    },
+    {
+      "created_at": "Fri Dec 22 13:35:33 +0000 2017",
+      "id": 9.4419973319478e+17,
+      "id_str": "944199733194776577",
+      "text": "RT @elieallouche: Lancement d'un Master #humanit\u00e9snum\u00e9riques et #\u00e9ducation https:\/\/t.co\/9hN6aFvpGK via @michaelbourgatt",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "humanit\u00e9snum\u00e9riques",
+            "indices": [
+              40,
+              60
+            ]
+          },
+          {
+            "text": "\u00e9ducation",
+            "indices": [
+              64,
+              74
+            ]
+          }
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "elieallouche",
+            "name": "Elie Allouche",
+            "id": 59176934,
+            "id_str": "59176934",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "michaelbourgatt",
+            "name": "Michael Bourgatte",
+            "id": 313817360,
+            "id_str": "313817360",
+            "indices": [
+              103,
+              119
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/9hN6aFvpGK",
+            "expanded_url": "https:\/\/www.icp.fr\/formations\/diplomes\/masters\/master-meef-pratiques-et-ingenierie-de-la-formation-humanites-numeriques-et-innovations-educatives-76717.kjsp",
+            "display_url": "icp.fr\/formations\/dip\u2026",
+            "indices": [
+              75,
+              98
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 574483718,
+        "id_str": "574483718",
+        "name": "Axel Jean",
+        "screen_name": "AxelJean77",
+        "location": "Paris",
+        "description": "Chef de projet, Banques de Ressources Num\u00e9riques \u00c9ducatives #BRNEDU - Direction du Num\u00e9rique pour l'\u00c9ducation - MEN #EcoleNumerique #Primabord #Ress_Num",
+        "url": "https:\/\/t.co\/OBl4nRO6mf",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/OBl4nRO6mf",
+                "expanded_url": "http:\/\/eduscol.education.fr\/brne",
+                "display_url": "eduscol.education.fr\/brne",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1358,
+        "friends_count": 698,
+        "listed_count": 134,
+        "created_at": "Tue May 08 13:41:20 +0000 2012",
+        "favourites_count": 2207,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4728,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme2\/bg.gif",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme2\/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/516217530684174336\/R4h3YFqN_normal.jpeg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/516217530684174336\/R4h3YFqN_normal.jpeg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/574483718\/1481491547",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Dec 22 13:24:44 +0000 2017",
+        "id": 9.4419701231196e+17,
+        "id_str": "944197012311957506",
+        "text": "Lancement d'un Master #humanit\u00e9snum\u00e9riques et #\u00e9ducation https:\/\/t.co\/9hN6aFvpGK via @michaelbourgatt",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "humanit\u00e9snum\u00e9riques",
+              "indices": [
+                22,
+                42
+              ]
+            },
+            {
+              "text": "\u00e9ducation",
+              "indices": [
+                46,
+                56
+              ]
+            }
+          ],
+          "symbols": [
+            
+          ],
+          "user_mentions": [
+            {
+              "screen_name": "michaelbourgatt",
+              "name": "Michael Bourgatte",
+              "id": 313817360,
+              "id_str": "313817360",
+              "indices": [
+                85,
+                101
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/9hN6aFvpGK",
+              "expanded_url": "https:\/\/www.icp.fr\/formations\/diplomes\/masters\/master-meef-pratiques-et-ingenierie-de-la-formation-humanites-numeriques-et-innovations-educatives-76717.kjsp",
+              "display_url": "icp.fr\/formations\/dip\u2026",
+              "indices": [
+                57,
+                80
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "fr",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 59176934,
+          "id_str": "59176934",
+          "name": "Elie Allouche",
+          "screen_name": "elieallouche",
+          "location": "Ici",
+          "description": "Humanit\u00e9s num\u00e9riques et \u00e9ducation. Diffusion des savoirs. #humanit\u00e9snum\u00e9riques #\u00e9ducation #\u03c0\u03b1\u03b9\u03b4\u03b5\u03af\u03b1 #litt\u00e9ratienum\u00e9rique #EcoleNum\u00e9rique",
+          "url": "https:\/\/t.co\/JDg4OBiFwK",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/JDg4OBiFwK",
+                  "expanded_url": "https:\/\/fr.linkedin.com\/in\/elieallouche",
+                  "display_url": "fr.linkedin.com\/in\/elieallouche",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 3797,
+          "friends_count": 2392,
+          "listed_count": 206,
+          "created_at": "Wed Jul 22 16:49:57 +0000 2009",
+          "favourites_count": 3344,
+          "utc_offset": -10800,
+          "time_zone": "Greenland",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 8097,
+          "lang": "fr",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/552832955853176832\/G_iPEBZ3.jpeg",
+          "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/552832955853176832\/G_iPEBZ3.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/941621560875671552\/_N0cGV-9_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/941621560875671552\/_N0cGV-9_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/59176934\/1512744690",
+          "profile_link_color": "89C9FA",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+      },
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    },
+    {
+      "created_at": "Fri Dec 22 13:24:44 +0000 2017",
+      "id": 9.4419701231196e+17,
+      "id_str": "944197012311957506",
+      "text": "Lancement d'un Master #humanit\u00e9snum\u00e9riques et #\u00e9ducation https:\/\/t.co\/9hN6aFvpGK via @michaelbourgatt",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "humanit\u00e9snum\u00e9riques",
+            "indices": [
+              22,
+              42
+            ]
+          },
+          {
+            "text": "\u00e9ducation",
+            "indices": [
+              46,
+              56
+            ]
+          }
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "michaelbourgatt",
+            "name": "Michael Bourgatte",
+            "id": 313817360,
+            "id_str": "313817360",
+            "indices": [
+              85,
+              101
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/9hN6aFvpGK",
+            "expanded_url": "https:\/\/www.icp.fr\/formations\/diplomes\/masters\/master-meef-pratiques-et-ingenierie-de-la-formation-humanites-numeriques-et-innovations-educatives-76717.kjsp",
+            "display_url": "icp.fr\/formations\/dip\u2026",
+            "indices": [
+              57,
+              80
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 59176934,
+        "id_str": "59176934",
+        "name": "Elie Allouche",
+        "screen_name": "elieallouche",
+        "location": "Ici",
+        "description": "Humanit\u00e9s num\u00e9riques et \u00e9ducation. Diffusion des savoirs. #humanit\u00e9snum\u00e9riques #\u00e9ducation #\u03c0\u03b1\u03b9\u03b4\u03b5\u03af\u03b1 #litt\u00e9ratienum\u00e9rique #EcoleNum\u00e9rique",
+        "url": "https:\/\/t.co\/JDg4OBiFwK",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/JDg4OBiFwK",
+                "expanded_url": "https:\/\/fr.linkedin.com\/in\/elieallouche",
+                "display_url": "fr.linkedin.com\/in\/elieallouche",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3797,
+        "friends_count": 2392,
+        "listed_count": 206,
+        "created_at": "Wed Jul 22 16:49:57 +0000 2009",
+        "favourites_count": 3344,
+        "utc_offset": -10800,
+        "time_zone": "Greenland",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8097,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/552832955853176832\/G_iPEBZ3.jpeg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/552832955853176832\/G_iPEBZ3.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/941621560875671552\/_N0cGV-9_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/941621560875671552\/_N0cGV-9_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/59176934\/1512744690",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    },
+    {
+      "created_at": "Fri Dec 22 13:01:36 +0000 2017",
+      "id": 9.4419118802587e+17,
+      "id_str": "944191188025868288",
+      "text": "RT @seeksanusername: Tour d\u2019horizon (subjectif) de ce que j\u2019ai retenu de l\u2019ann\u00e9e 2017 pour les projets en #Humanit\u00e9sNum\u00e9riques #DH avec un\u2026",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Humanit\u00e9sNum\u00e9riques",
+            "indices": [
+              106,
+              126
+            ]
+          },
+          {
+            "text": "DH",
+            "indices": [
+              127,
+              130
+            ]
+          }
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "seeksanusername",
+            "name": "Courtin Antoine",
+            "id": 119048849,
+            "id_str": "119048849",
+            "indices": [
+              3,
+              19
+            ]
+          }
+        ],
+        "urls": [
+          
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1978588508,
+        "id_str": "1978588508",
+        "name": "Sabine Roulleau",
+        "screen_name": "sa_roulle",
+        "location": "Montreuil",
+        "description": "biblioth\u00e9caire et historienne de l\u2019art, fan de flop.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 57,
+        "friends_count": 147,
+        "listed_count": 7,
+        "created_at": "Mon Oct 21 12:35:47 +0000 2013",
+        "favourites_count": 381,
+        "utc_offset": 3600,
+        "time_zone": "Paris",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 453,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/378800000628238273\/b88742f003f25352a11a3c22204b930e_normal.jpeg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/378800000628238273\/b88742f003f25352a11a3c22204b930e_normal.jpeg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1978588508\/1510562648",
+        "profile_link_color": "156E0D",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Dec 19 08:21:22 +0000 2017",
+        "id": 9.4303350372955e+17,
+        "id_str": "943033503729553408",
+        "text": "Tour d\u2019horizon (subjectif) de ce que j\u2019ai retenu de l\u2019ann\u00e9e 2017 pour les projets en #Humanit\u00e9sNum\u00e9riques #DH avec\u2026 https:\/\/t.co\/vycJR0Gn7j",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Humanit\u00e9sNum\u00e9riques",
+              "indices": [
+                85,
+                105
+              ]
+            },
+            {
+              "text": "DH",
+              "indices": [
+                106,
+                109
+              ]
+            }
+          ],
+          "symbols": [
+            
+          ],
+          "user_mentions": [
+            
+          ],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/vycJR0Gn7j",
+              "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/943033503729553408",
+              "display_url": "twitter.com\/i\/web\/status\/9\u2026",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "fr",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 119048849,
+          "id_str": "119048849",
+          "name": "Courtin Antoine",
+          "screen_name": "seeksanusername",
+          "location": "Paris",
+          "description": "...is about discovery, no justification #GLAMgeek",
+          "url": "https:\/\/t.co\/SS1gJWvrNv",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/SS1gJWvrNv",
+                  "expanded_url": "http:\/\/goo.gl\/KN61wV",
+                  "display_url": "goo.gl\/KN61wV",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 2748,
+          "friends_count": 928,
+          "listed_count": 403,
+          "created_at": "Tue Mar 02 14:25:03 +0000 2010",
+          "favourites_count": 6800,
+          "utc_offset": 7200,
+          "time_zone": "Athens",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 13286,
+          "lang": "fr",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/942373473715965952\/qS6dcf46_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/942373473715965952\/qS6dcf46_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/119048849\/1513534614",
+          "profile_link_color": "1B95E0",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 35,
+        "favorite_count": 55,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+      },
+      "is_quote_status": false,
+      "retweet_count": 35,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    },
+    {
+      "created_at": "Fri Dec 22 11:08:13 +0000 2017",
+      "id": 9.44162657309e+17,
+      "id_str": "944162657308995584",
+      "text": "RT @seeksanusername: Tour d\u2019horizon (subjectif) de ce que j\u2019ai retenu de l\u2019ann\u00e9e 2017 pour les projets en #Humanit\u00e9sNum\u00e9riques #DH avec un\u2026",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Humanit\u00e9sNum\u00e9riques",
+            "indices": [
+              106,
+              126
+            ]
+          },
+          {
+            "text": "DH",
+            "indices": [
+              127,
+              130
+            ]
+          }
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "seeksanusername",
+            "name": "Courtin Antoine",
+            "id": 119048849,
+            "id_str": "119048849",
+            "indices": [
+              3,
+              19
+            ]
+          }
+        ],
+        "urls": [
+          
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 553499534,
+        "id_str": "553499534",
+        "name": "Thomas Ansart",
+        "screen_name": "ThomasAnsart",
+        "location": "Paris, France",
+        "description": "Cartographe @sciencespo \/\/ \nCo-cr\u00e9ateur de #Khartis",
+        "url": "https:\/\/t.co\/eIQWqSK3HZ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/eIQWqSK3HZ",
+                "expanded_url": "https:\/\/thomasansart.com\/",
+                "display_url": "thomasansart.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 171,
+        "friends_count": 207,
+        "listed_count": 6,
+        "created_at": "Sat Apr 14 12:39:53 +0000 2012",
+        "favourites_count": 314,
+        "utc_offset": 3600,
+        "time_zone": "Paris",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 269,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/888214447\/42079de314c6dc01c5c63a9aaed52cd6.jpeg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/888214447\/42079de314c6dc01c5c63a9aaed52cd6.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/786851404577136640\/JF2a6-bC_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/786851404577136640\/JF2a6-bC_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/553499534\/1476434666",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Dec 19 08:21:22 +0000 2017",
+        "id": 9.4303350372955e+17,
+        "id_str": "943033503729553408",
+        "text": "Tour d\u2019horizon (subjectif) de ce que j\u2019ai retenu de l\u2019ann\u00e9e 2017 pour les projets en #Humanit\u00e9sNum\u00e9riques #DH avec\u2026 https:\/\/t.co\/vycJR0Gn7j",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Humanit\u00e9sNum\u00e9riques",
+              "indices": [
+                85,
+                105
+              ]
+            },
+            {
+              "text": "DH",
+              "indices": [
+                106,
+                109
+              ]
+            }
+          ],
+          "symbols": [
+            
+          ],
+          "user_mentions": [
+            
+          ],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/vycJR0Gn7j",
+              "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/943033503729553408",
+              "display_url": "twitter.com\/i\/web\/status\/9\u2026",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "fr",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 119048849,
+          "id_str": "119048849",
+          "name": "Courtin Antoine",
+          "screen_name": "seeksanusername",
+          "location": "Paris",
+          "description": "...is about discovery, no justification #GLAMgeek",
+          "url": "https:\/\/t.co\/SS1gJWvrNv",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/SS1gJWvrNv",
+                  "expanded_url": "http:\/\/goo.gl\/KN61wV",
+                  "display_url": "goo.gl\/KN61wV",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 2748,
+          "friends_count": 928,
+          "listed_count": 403,
+          "created_at": "Tue Mar 02 14:25:03 +0000 2010",
+          "favourites_count": 6800,
+          "utc_offset": 7200,
+          "time_zone": "Athens",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 13286,
+          "lang": "fr",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/942373473715965952\/qS6dcf46_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/942373473715965952\/qS6dcf46_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/119048849\/1513534614",
+          "profile_link_color": "1B95E0",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 35,
+        "favorite_count": 55,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+      },
+      "is_quote_status": false,
+      "retweet_count": 35,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    },
+    {
+      "created_at": "Thu Dec 21 21:22:50 +0000 2017",
+      "id": 9.4395494191111e+17,
+      "id_str": "943954941911105536",
+      "text": "RT @glennhroe: Entretien\/Interview OBVIL\/ARTFL - two of my favourite acronyms, brought together... #humanit\u00e9snum\u00e9riques #digitalhumanities\u2026",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "humanit\u00e9snum\u00e9riques",
+            "indices": [
+              99,
+              119
+            ]
+          },
+          {
+            "text": "digitalhumanities",
+            "indices": [
+              120,
+              138
+            ]
+          }
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "glennhroe",
+            "name": "Glenn Roe",
+            "id": 42820326,
+            "id_str": "42820326",
+            "indices": [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http:\/\/twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 64503250,
+        "id_str": "64503250",
+        "name": "Beno\u00eet Melan\u00e7on",
+        "screen_name": "benoitmelancon",
+        "location": "Montr\u00e9al",
+        "description": "Professeur, chercheur, \u00e9diteur, auteur, blogueur, conf\u00e9rencier, bibliographe. Pr\u00e9f\u00e8re Jackie Robinson \u00e0 Maurice Richard.",
+        "url": "http:\/\/t.co\/hEc8JZa4oO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http:\/\/t.co\/hEc8JZa4oO",
+                "expanded_url": "http:\/\/www.mapageweb.umontreal.ca\/melancon\/",
+                "display_url": "mapageweb.umontreal.ca\/melancon\/",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3278,
+        "friends_count": 839,
+        "listed_count": 180,
+        "created_at": "Mon Aug 10 20:20:50 +0000 2009",
+        "favourites_count": 0,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 20317,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/793056516664426496\/F1OwnHVd_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/793056516664426496\/F1OwnHVd_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/64503250\/1477914427",
+        "profile_link_color": "141717",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Dec 21 21:00:23 +0000 2017",
+        "id": 9.4394929048082e+17,
+        "id_str": "943949290480816135",
+        "text": "Entretien\/Interview OBVIL\/ARTFL - two of my favourite acronyms, brought together... #humanit\u00e9snum\u00e9riques\u2026 https:\/\/t.co\/UQqCmAvSqb",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "humanit\u00e9snum\u00e9riques",
+              "indices": [
+                84,
+                104
+              ]
+            }
+          ],
+          "symbols": [
+            
+          ],
+          "user_mentions": [
+            
+          ],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/UQqCmAvSqb",
+              "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/943949290480816135",
+              "display_url": "twitter.com\/i\/web\/status\/9\u2026",
+              "indices": [
+                106,
+                129
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 42820326,
+          "id_str": "42820326",
+          "name": "Glenn Roe",
+          "screen_name": "glennhroe",
+          "location": "canberra",
+          "description": "Senior Lecturer in Digital Humanities at ANU \u2022 French Literary, Intellectual, & Book History https:\/\/t.co\/PV0iUqBX2A",
+          "url": "http:\/\/t.co\/oq9JNNt2R6",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http:\/\/t.co\/oq9JNNt2R6",
+                  "expanded_url": "http:\/\/glennroe.net",
+                  "display_url": "glennroe.net",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/PV0iUqBX2A",
+                  "expanded_url": "https:\/\/orcid.org\/0000-0002-5611-7916",
+                  "display_url": "orcid.org\/0000-0002-5611\u2026",
+                  "indices": [
+                    93,
+                    116
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 7698,
+          "friends_count": 574,
+          "listed_count": 50,
+          "created_at": "Wed May 27 05:06:22 +0000 2009",
+          "favourites_count": 1794,
+          "utc_offset": 39600,
+          "time_zone": "Melbourne",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 6262,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "5D5C5E",
+          "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/378800000176514237\/sCVk4c60.jpeg",
+          "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/378800000176514237\/sCVk4c60.jpeg",
+          "profile_background_tile": true,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/829062560611700736\/NiFj8jrd_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/829062560611700736\/NiFj8jrd_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/42820326\/1502399368",
+          "profile_link_color": "661904",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "53576B",
+          "profile_text_color": "7A7B7C",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 9,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Dec 21 21:00:23 +0000 2017",
+      "id": 9.4394929048082e+17,
+      "id_str": "943949290480816135",
+      "text": "Entretien\/Interview OBVIL\/ARTFL - two of my favourite acronyms, brought together... #humanit\u00e9snum\u00e9riques\u2026 https:\/\/t.co\/UQqCmAvSqb",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "humanit\u00e9snum\u00e9riques",
+            "indices": [
+              84,
+              104
+            ]
+          }
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/UQqCmAvSqb",
+            "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/943949290480816135",
+            "display_url": "twitter.com\/i\/web\/status\/9\u2026",
+            "indices": [
+              106,
+              129
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 42820326,
+        "id_str": "42820326",
+        "name": "Glenn Roe",
+        "screen_name": "glennhroe",
+        "location": "canberra",
+        "description": "Senior Lecturer in Digital Humanities at ANU \u2022 French Literary, Intellectual, & Book History https:\/\/t.co\/PV0iUqBX2A",
+        "url": "http:\/\/t.co\/oq9JNNt2R6",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http:\/\/t.co\/oq9JNNt2R6",
+                "expanded_url": "http:\/\/glennroe.net",
+                "display_url": "glennroe.net",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/PV0iUqBX2A",
+                "expanded_url": "https:\/\/orcid.org\/0000-0002-5611-7916",
+                "display_url": "orcid.org\/0000-0002-5611\u2026",
+                "indices": [
+                  93,
+                  116
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 7698,
+        "friends_count": 574,
+        "listed_count": 50,
+        "created_at": "Wed May 27 05:06:22 +0000 2009",
+        "favourites_count": 1794,
+        "utc_offset": 39600,
+        "time_zone": "Melbourne",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6262,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "5D5C5E",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/378800000176514237\/sCVk4c60.jpeg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/378800000176514237\/sCVk4c60.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/829062560611700736\/NiFj8jrd_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/829062560611700736\/NiFj8jrd_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/42820326\/1502399368",
+        "profile_link_color": "661904",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "53576B",
+        "profile_text_color": "7A7B7C",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Dec 21 19:33:54 +0000 2017",
+      "id": 9.4392752528942e+17,
+      "id_str": "943927525289418752",
+      "text": "RT @seeksanusername: Tour d\u2019horizon (subjectif) de ce que j\u2019ai retenu de l\u2019ann\u00e9e 2017 pour les projets en #Humanit\u00e9sNum\u00e9riques #DH avec un\u2026",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Humanit\u00e9sNum\u00e9riques",
+            "indices": [
+              106,
+              126
+            ]
+          },
+          {
+            "text": "DH",
+            "indices": [
+              127,
+              130
+            ]
+          }
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "seeksanusername",
+            "name": "Courtin Antoine",
+            "id": 119048849,
+            "id_str": "119048849",
+            "indices": [
+              3,
+              19
+            ]
+          }
+        ],
+        "urls": [
+          
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 7.060194829391e+17,
+        "id_str": "706019482939101184",
+        "name": "Violaine TISSIER",
+        "screen_name": "ViolaineTissier",
+        "location": "Rennes, France",
+        "description": "Archiviste :  responsable publics et conservation @ArchivesRennes ,#rennes, #culture, #mediation, #histoire.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 190,
+        "friends_count": 291,
+        "listed_count": 13,
+        "created_at": "Sat Mar 05 07:32:16 +0000 2016",
+        "favourites_count": 972,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 365,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/706023568774193152\/XXHP3a7z_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/706023568774193152\/XXHP3a7z_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Dec 19 08:21:22 +0000 2017",
+        "id": 9.4303350372955e+17,
+        "id_str": "943033503729553408",
+        "text": "Tour d\u2019horizon (subjectif) de ce que j\u2019ai retenu de l\u2019ann\u00e9e 2017 pour les projets en #Humanit\u00e9sNum\u00e9riques #DH avec\u2026 https:\/\/t.co\/vycJR0Gn7j",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Humanit\u00e9sNum\u00e9riques",
+              "indices": [
+                85,
+                105
+              ]
+            },
+            {
+              "text": "DH",
+              "indices": [
+                106,
+                109
+              ]
+            }
+          ],
+          "symbols": [
+            
+          ],
+          "user_mentions": [
+            
+          ],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/vycJR0Gn7j",
+              "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/943033503729553408",
+              "display_url": "twitter.com\/i\/web\/status\/9\u2026",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "fr",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 119048849,
+          "id_str": "119048849",
+          "name": "Courtin Antoine",
+          "screen_name": "seeksanusername",
+          "location": "Paris",
+          "description": "...is about discovery, no justification #GLAMgeek",
+          "url": "https:\/\/t.co\/SS1gJWvrNv",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/SS1gJWvrNv",
+                  "expanded_url": "http:\/\/goo.gl\/KN61wV",
+                  "display_url": "goo.gl\/KN61wV",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 2748,
+          "friends_count": 928,
+          "listed_count": 403,
+          "created_at": "Tue Mar 02 14:25:03 +0000 2010",
+          "favourites_count": 6800,
+          "utc_offset": 7200,
+          "time_zone": "Athens",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 13286,
+          "lang": "fr",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/942373473715965952\/qS6dcf46_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/942373473715965952\/qS6dcf46_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/119048849\/1513534614",
+          "profile_link_color": "1B95E0",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 35,
+        "favorite_count": 55,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+      },
+      "is_quote_status": false,
+      "retweet_count": 35,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    },
+    {
+      "created_at": "Thu Dec 21 16:59:49 +0000 2017",
+      "id": 9.4388875071894e+17,
+      "id_str": "943888750718935040",
+      "text": "RT @carnetamericas: Comment donner une place aux jeunes chercheurs d\u00e8s le Master? Et si le carnet apportait une solution: https:\/\/t.co\/n1A2\u2026",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "carnetamericas",
+            "name": "Carema - Carnet de Recherche Master Les Am\u00e9riques",
+            "id": 9.347756168341e+17,
+            "id_str": "934775616834101254",
+            "indices": [
+              3,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4351681395,
+        "id_str": "4351681395",
+        "name": "Chroniques",
+        "screen_name": "cchartistes",
+        "location": "Paris, Ile-de-France",
+        "description": "Compte du carnet @hypothesesorg des \u00e9l\u00e8ves & \u00e9tudiants de l'@Ecoledeschartes \ud83d\udcdc\ud83d\udcda\n#Histoire #Archives #Biblioth\u00e8ques",
+        "url": "https:\/\/t.co\/beEAMmkCq6",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/beEAMmkCq6",
+                "expanded_url": "http:\/\/chartes.hypotheses.org",
+                "display_url": "chartes.hypotheses.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 467,
+        "friends_count": 753,
+        "listed_count": 38,
+        "created_at": "Wed Dec 02 15:15:55 +0000 2015",
+        "favourites_count": 720,
+        "utc_offset": 3600,
+        "time_zone": "Paris",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2020,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/912703079274999808\/bxQjMEjT_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/912703079274999808\/bxQjMEjT_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/4351681395\/1476197004",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Dec 20 16:20:47 +0000 2017",
+        "id": 9.4351654104333e+17,
+        "id_str": "943516541043331073",
+        "text": "Comment donner une place aux jeunes chercheurs d\u00e8s le Master? Et si le carnet apportait une solution:\u2026 https:\/\/t.co\/03fTBZabyk",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            
+          ],
+          "symbols": [
+            
+          ],
+          "user_mentions": [
+            
+          ],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/03fTBZabyk",
+              "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/943516541043331073",
+              "display_url": "twitter.com\/i\/web\/status\/9\u2026",
+              "indices": [
+                103,
+                126
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "fr",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 9.347756168341e+17,
+          "id_str": "934775616834101254",
+          "name": "Carema - Carnet de Recherche Master Les Am\u00e9riques",
+          "screen_name": "carnetamericas",
+          "location": "Rennes, Francia",
+          "description": "Ce carnet est un espace de r\u00e9flexion de jeunes chercheurs en Master \u00e0 l'Universit\u00e9 Rennes 2",
+          "url": "https:\/\/t.co\/8hTA2Av2lm",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/8hTA2Av2lm",
+                  "expanded_url": "https:\/\/masteramerica.hypotheses.org\/",
+                  "display_url": "masteramerica.hypotheses.org",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 2,
+          "friends_count": 7,
+          "listed_count": 0,
+          "created_at": "Sun Nov 26 13:27:29 +0000 2017",
+          "favourites_count": 6,
+          "utc_offset": -28800,
+          "time_zone": "Pacific Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 1,
+          "lang": "fr",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/934783586150084609\/HcYcE6Il_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/934783586150084609\/HcYcE6Il_normal.jpg",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "fr"
+    },
+    {
+      "created_at": "Thu Dec 21 15:01:52 +0000 2017",
+      "id": 9.4385906808258e+17,
+      "id_str": "943859068082577408",
+      "text": "RT @carnetamericas: Comment donner une place aux jeunes chercheurs d\u00e8s le Master? Et si le carnet apportait une solution: https:\/\/t.co\/n1A2\u2026",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "carnetamericas",
+            "name": "Carema - Carnet de Recherche Master Les Am\u00e9riques",
+            "id": 9.347756168341e+17,
+            "id_str": "934775616834101254",
+            "indices": [
+              3,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http:\/\/bufferapp.com\" rel=\"nofollow\">Buffer<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 90828164,
+        "id_str": "90828164",
+        "name": "Hypotheses",
+        "screen_name": "hypothesesorg",
+        "location": "France",
+        "description": "Hypotheses is a web platform hosting about 2500 academic blogs in the humanities & social sciences. It is part of the larger portal OpenEdition @openeditionsays",
+        "url": "http:\/\/t.co\/0UfQzbdvju",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http:\/\/t.co\/0UfQzbdvju",
+                "expanded_url": "http:\/\/hypotheses.org",
+                "display_url": "hypotheses.org",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 8383,
+        "friends_count": 2017,
+        "listed_count": 398,
+        "created_at": "Wed Nov 18 08:18:21 +0000 2009",
+        "favourites_count": 307,
+        "utc_offset": 3600,
+        "time_zone": "Paris",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11556,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F00808",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/2683664697\/d42c05d57339fa66acc258338b54c66a_normal.png",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/2683664697\/d42c05d57339fa66acc258338b54c66a_normal.png",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/90828164\/1492695686",
+        "profile_link_color": "CC071E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Dec 20 16:20:47 +0000 2017",
+        "id": 9.4351654104333e+17,
+        "id_str": "943516541043331073",
+        "text": "Comment donner une place aux jeunes chercheurs d\u00e8s le Master? Et si le carnet apportait une solution:\u2026 https:\/\/t.co\/03fTBZabyk",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            
+          ],
+          "symbols": [
+            
+          ],
+          "user_mentions": [
+            
+          ],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/03fTBZabyk",
+              "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/943516541043331073",
+              "display_url": "twitter.com\/i\/web\/status\/9\u2026",
+              "indices": [
+                103,
+                126
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "fr",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 9.347756168341e+17,
+          "id_str": "934775616834101254",
+          "name": "Carema - Carnet de Recherche Master Les Am\u00e9riques",
+          "screen_name": "carnetamericas",
+          "location": "Rennes, Francia",
+          "description": "Ce carnet est un espace de r\u00e9flexion de jeunes chercheurs en Master \u00e0 l'Universit\u00e9 Rennes 2",
+          "url": "https:\/\/t.co\/8hTA2Av2lm",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/8hTA2Av2lm",
+                  "expanded_url": "https:\/\/masteramerica.hypotheses.org\/",
+                  "display_url": "masteramerica.hypotheses.org",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 2,
+          "friends_count": 7,
+          "listed_count": 0,
+          "created_at": "Sun Nov 26 13:27:29 +0000 2017",
+          "favourites_count": 6,
+          "utc_offset": -28800,
+          "time_zone": "Pacific Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 1,
+          "lang": "fr",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/934783586150084609\/HcYcE6Il_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/934783586150084609\/HcYcE6Il_normal.jpg",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "fr"
+    },
+    {
+      "created_at": "Thu Dec 21 13:56:58 +0000 2017",
+      "id": 9.4384273732087e+17,
+      "id_str": "943842737320873984",
+      "text": "RT @seeksanusername: Tour d\u2019horizon (subjectif) de ce que j\u2019ai retenu de l\u2019ann\u00e9e 2017 pour les projets en #Humanit\u00e9sNum\u00e9riques #DH avec un\u2026",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Humanit\u00e9sNum\u00e9riques",
+            "indices": [
+              106,
+              126
+            ]
+          },
+          {
+            "text": "DH",
+            "indices": [
+              127,
+              130
+            ]
+          }
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "seeksanusername",
+            "name": "Courtin Antoine",
+            "id": 119048849,
+            "id_str": "119048849",
+            "indices": [
+              3,
+              19
+            ]
+          }
+        ],
+        "urls": [
+          
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4185743326,
+        "id_str": "4185743326",
+        "name": "Marie-Astrid Hugel",
+        "screen_name": "AmrieDitras",
+        "location": "Paris, France",
+        "description": "PhD Student in #MedievalHistory et #DigitalHumanities \u00e0 l'EHESS et l'universit\u00e9 de Heidelberg ! #francoallemandenforce\n#developpeuseenherbe",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 58,
+        "friends_count": 302,
+        "listed_count": 8,
+        "created_at": "Sat Nov 14 10:33:43 +0000 2015",
+        "favourites_count": 686,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 664,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+        "profile_image_url_https": "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Dec 19 08:21:22 +0000 2017",
+        "id": 9.4303350372955e+17,
+        "id_str": "943033503729553408",
+        "text": "Tour d\u2019horizon (subjectif) de ce que j\u2019ai retenu de l\u2019ann\u00e9e 2017 pour les projets en #Humanit\u00e9sNum\u00e9riques #DH avec\u2026 https:\/\/t.co\/vycJR0Gn7j",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Humanit\u00e9sNum\u00e9riques",
+              "indices": [
+                85,
+                105
+              ]
+            },
+            {
+              "text": "DH",
+              "indices": [
+                106,
+                109
+              ]
+            }
+          ],
+          "symbols": [
+            
+          ],
+          "user_mentions": [
+            
+          ],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/vycJR0Gn7j",
+              "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/943033503729553408",
+              "display_url": "twitter.com\/i\/web\/status\/9\u2026",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "fr",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 119048849,
+          "id_str": "119048849",
+          "name": "Courtin Antoine",
+          "screen_name": "seeksanusername",
+          "location": "Paris",
+          "description": "...is about discovery, no justification #GLAMgeek",
+          "url": "https:\/\/t.co\/SS1gJWvrNv",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/SS1gJWvrNv",
+                  "expanded_url": "http:\/\/goo.gl\/KN61wV",
+                  "display_url": "goo.gl\/KN61wV",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 2748,
+          "friends_count": 928,
+          "listed_count": 403,
+          "created_at": "Tue Mar 02 14:25:03 +0000 2010",
+          "favourites_count": 6800,
+          "utc_offset": 7200,
+          "time_zone": "Athens",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 13286,
+          "lang": "fr",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/942373473715965952\/qS6dcf46_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/942373473715965952\/qS6dcf46_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/119048849\/1513534614",
+          "profile_link_color": "1B95E0",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 35,
+        "favorite_count": 55,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+      },
+      "is_quote_status": false,
+      "retweet_count": 35,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    },
+    {
+      "created_at": "Thu Dec 21 13:45:18 +0000 2017",
+      "id": 9.4383979879569e+17,
+      "id_str": "943839798795685888",
+      "text": "RT @seeksanusername: Tour d\u2019horizon (subjectif) de ce que j\u2019ai retenu de l\u2019ann\u00e9e 2017 pour les projets en #Humanit\u00e9sNum\u00e9riques #DH avec un\u2026",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Humanit\u00e9sNum\u00e9riques",
+            "indices": [
+              106,
+              126
+            ]
+          },
+          {
+            "text": "DH",
+            "indices": [
+              127,
+              130
+            ]
+          }
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "seeksanusername",
+            "name": "Courtin Antoine",
+            "id": 119048849,
+            "id_str": "119048849",
+            "indices": [
+              3,
+              19
+            ]
+          }
+        ],
+        "urls": [
+          
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\">Twitter for iPad<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3290581819,
+        "id_str": "3290581819",
+        "name": "Euchronie",
+        "screen_name": "Euchronie",
+        "location": "",
+        "description": "Vous aimez les publications sur l'#histoire et le #pass\u00e9 ? Euchronie, c'est le pass\u00e9, ici et maintenant !",
+        "url": "https:\/\/t.co\/8X5yCC6Mix",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/8X5yCC6Mix",
+                "expanded_url": "http:\/\/euchronie.org\/",
+                "display_url": "euchronie.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 763,
+        "friends_count": 325,
+        "listed_count": 37,
+        "created_at": "Fri Jul 24 17:18:49 +0000 2015",
+        "favourites_count": 150,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 627,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/704256384473366528\/b3P4GsI1_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/704256384473366528\/b3P4GsI1_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/3290581819\/1457719027",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Dec 19 08:21:22 +0000 2017",
+        "id": 9.4303350372955e+17,
+        "id_str": "943033503729553408",
+        "text": "Tour d\u2019horizon (subjectif) de ce que j\u2019ai retenu de l\u2019ann\u00e9e 2017 pour les projets en #Humanit\u00e9sNum\u00e9riques #DH avec\u2026 https:\/\/t.co\/vycJR0Gn7j",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Humanit\u00e9sNum\u00e9riques",
+              "indices": [
+                85,
+                105
+              ]
+            },
+            {
+              "text": "DH",
+              "indices": [
+                106,
+                109
+              ]
+            }
+          ],
+          "symbols": [
+            
+          ],
+          "user_mentions": [
+            
+          ],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/vycJR0Gn7j",
+              "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/943033503729553408",
+              "display_url": "twitter.com\/i\/web\/status\/9\u2026",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "fr",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 119048849,
+          "id_str": "119048849",
+          "name": "Courtin Antoine",
+          "screen_name": "seeksanusername",
+          "location": "Paris",
+          "description": "...is about discovery, no justification #GLAMgeek",
+          "url": "https:\/\/t.co\/SS1gJWvrNv",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/SS1gJWvrNv",
+                  "expanded_url": "http:\/\/goo.gl\/KN61wV",
+                  "display_url": "goo.gl\/KN61wV",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 2748,
+          "friends_count": 928,
+          "listed_count": 403,
+          "created_at": "Tue Mar 02 14:25:03 +0000 2010",
+          "favourites_count": 6800,
+          "utc_offset": 7200,
+          "time_zone": "Athens",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 13286,
+          "lang": "fr",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/942373473715965952\/qS6dcf46_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/942373473715965952\/qS6dcf46_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/119048849\/1513534614",
+          "profile_link_color": "1B95E0",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 35,
+        "favorite_count": 55,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+      },
+      "is_quote_status": false,
+      "retweet_count": 35,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    },
+    {
+      "created_at": "Thu Dec 21 13:31:50 +0000 2017",
+      "id": 9.4383641015457e+17,
+      "id_str": "943836410154573825",
+      "text": "RT @seeksanusername: Tour d\u2019horizon (subjectif) de ce que j\u2019ai retenu de l\u2019ann\u00e9e 2017 pour les projets en #Humanit\u00e9sNum\u00e9riques #DH avec un\u2026",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Humanit\u00e9sNum\u00e9riques",
+            "indices": [
+              106,
+              126
+            ]
+          },
+          {
+            "text": "DH",
+            "indices": [
+              127,
+              130
+            ]
+          }
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "seeksanusername",
+            "name": "Courtin Antoine",
+            "id": 119048849,
+            "id_str": "119048849",
+            "indices": [
+              3,
+              19
+            ]
+          }
+        ],
+        "urls": [
+          
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2845005724,
+        "id_str": "2845005724",
+        "name": "Damien Petermann",
+        "screen_name": "DamienPetermann",
+        "location": "Lyon",
+        "description": "Doctorant, #G\u00e9ographie #Histoire #Tourisme,  #Valorisation du #Patrimoine, #Cartographie num\u00e9rique, #Mus\u00e9e, #HGIS, Images urbaines, Resp. @imago_jr",
+        "url": "https:\/\/t.co\/BIkIP3OkUM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/BIkIP3OkUM",
+                "expanded_url": "http:\/\/imagelyon.hypotheses.org\/",
+                "display_url": "imagelyon.hypotheses.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 579,
+        "friends_count": 697,
+        "listed_count": 73,
+        "created_at": "Sun Oct 26 10:26:45 +0000 2014",
+        "favourites_count": 3386,
+        "utc_offset": 3600,
+        "time_zone": "Paris",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9193,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ABB8C2",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/526323238532440065\/8S6akTI6_normal.jpeg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/526323238532440065\/8S6akTI6_normal.jpeg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2845005724\/1414320189",
+        "profile_link_color": "0084C4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Dec 19 08:21:22 +0000 2017",
+        "id": 9.4303350372955e+17,
+        "id_str": "943033503729553408",
+        "text": "Tour d\u2019horizon (subjectif) de ce que j\u2019ai retenu de l\u2019ann\u00e9e 2017 pour les projets en #Humanit\u00e9sNum\u00e9riques #DH avec\u2026 https:\/\/t.co\/vycJR0Gn7j",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Humanit\u00e9sNum\u00e9riques",
+              "indices": [
+                85,
+                105
+              ]
+            },
+            {
+              "text": "DH",
+              "indices": [
+                106,
+                109
+              ]
+            }
+          ],
+          "symbols": [
+            
+          ],
+          "user_mentions": [
+            
+          ],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/vycJR0Gn7j",
+              "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/943033503729553408",
+              "display_url": "twitter.com\/i\/web\/status\/9\u2026",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "fr",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 119048849,
+          "id_str": "119048849",
+          "name": "Courtin Antoine",
+          "screen_name": "seeksanusername",
+          "location": "Paris",
+          "description": "...is about discovery, no justification #GLAMgeek",
+          "url": "https:\/\/t.co\/SS1gJWvrNv",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/SS1gJWvrNv",
+                  "expanded_url": "http:\/\/goo.gl\/KN61wV",
+                  "display_url": "goo.gl\/KN61wV",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 2748,
+          "friends_count": 928,
+          "listed_count": 403,
+          "created_at": "Tue Mar 02 14:25:03 +0000 2010",
+          "favourites_count": 6800,
+          "utc_offset": 7200,
+          "time_zone": "Athens",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 13286,
+          "lang": "fr",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/942373473715965952\/qS6dcf46_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/942373473715965952\/qS6dcf46_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/119048849\/1513534614",
+          "profile_link_color": "1B95E0",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 35,
+        "favorite_count": 55,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+      },
+      "is_quote_status": false,
+      "retweet_count": 35,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    },
+    {
+      "created_at": "Thu Dec 21 13:31:16 +0000 2017",
+      "id": 9.4383626579909e+17,
+      "id_str": "943836265799090177",
+      "text": "RT @seeksanusername: Tour d\u2019horizon (subjectif) de ce que j\u2019ai retenu de l\u2019ann\u00e9e 2017 pour les projets en #Humanit\u00e9sNum\u00e9riques #DH avec un\u2026",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Humanit\u00e9sNum\u00e9riques",
+            "indices": [
+              106,
+              126
+            ]
+          },
+          {
+            "text": "DH",
+            "indices": [
+              127,
+              130
+            ]
+          }
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "seeksanusername",
+            "name": "Courtin Antoine",
+            "id": 119048849,
+            "id_str": "119048849",
+            "indices": [
+              3,
+              19
+            ]
+          }
+        ],
+        "urls": [
+          
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\">Twitter for iPad<\/a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 499097612,
+        "id_str": "499097612",
+        "name": "S\u00e9bastien Poublanc",
+        "screen_name": "HistorieNumeriQ",
+        "location": "Toulouse",
+        "description": "#Historien, docteur con(mp)teur d'arbres #EnvHist. Ing\u00e9nieur de rech. en #DH, @labexSMS. R\u00e9dacteur adj @mondessociaux. Co-coordinateur scientifique d'@euchronie",
+        "url": "https:\/\/t.co\/YIdeifTkku",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/YIdeifTkku",
+                "expanded_url": "http:\/\/ow.ly\/ghWH3078zc5",
+                "display_url": "ow.ly\/ghWH3078zc5",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1239,
+        "friends_count": 1197,
+        "listed_count": 98,
+        "created_at": "Tue Feb 21 19:32:42 +0000 2012",
+        "favourites_count": 1292,
+        "utc_offset": 3600,
+        "time_zone": "Amsterdam",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3522,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "AAB3B8",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/378800000181413364\/gPTA2Oky.png",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/378800000181413364\/gPTA2Oky.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/669455972570693632\/uzxk0jtr_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/669455972570693632\/uzxk0jtr_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/499097612\/1435663180",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Dec 19 08:21:22 +0000 2017",
+        "id": 9.4303350372955e+17,
+        "id_str": "943033503729553408",
+        "text": "Tour d\u2019horizon (subjectif) de ce que j\u2019ai retenu de l\u2019ann\u00e9e 2017 pour les projets en #Humanit\u00e9sNum\u00e9riques #DH avec\u2026 https:\/\/t.co\/vycJR0Gn7j",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Humanit\u00e9sNum\u00e9riques",
+              "indices": [
+                85,
+                105
+              ]
+            },
+            {
+              "text": "DH",
+              "indices": [
+                106,
+                109
+              ]
+            }
+          ],
+          "symbols": [
+            
+          ],
+          "user_mentions": [
+            
+          ],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/vycJR0Gn7j",
+              "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/943033503729553408",
+              "display_url": "twitter.com\/i\/web\/status\/9\u2026",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "fr",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 119048849,
+          "id_str": "119048849",
+          "name": "Courtin Antoine",
+          "screen_name": "seeksanusername",
+          "location": "Paris",
+          "description": "...is about discovery, no justification #GLAMgeek",
+          "url": "https:\/\/t.co\/SS1gJWvrNv",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/SS1gJWvrNv",
+                  "expanded_url": "http:\/\/goo.gl\/KN61wV",
+                  "display_url": "goo.gl\/KN61wV",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 2748,
+          "friends_count": 928,
+          "listed_count": 403,
+          "created_at": "Tue Mar 02 14:25:03 +0000 2010",
+          "favourites_count": 6800,
+          "utc_offset": 7200,
+          "time_zone": "Athens",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 13286,
+          "lang": "fr",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/942373473715965952\/qS6dcf46_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/942373473715965952\/qS6dcf46_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/119048849\/1513534614",
+          "profile_link_color": "1B95E0",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 35,
+        "favorite_count": 55,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+      },
+      "is_quote_status": false,
+      "retweet_count": 35,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.04,
+    "max_id": 9.4450696715394e+17,
+    "max_id_str": "944506967153938432",
+    "next_results": "?max_id=943836265799090176&q=humanit%C3%A9snum%C3%A9riques&count=20&include_entities=1",
+    "query": "humanit%C3%A9snum%C3%A9riques",
+    "refresh_url": "?since_id=944506967153938432&q=humanit%C3%A9snum%C3%A9riques&include_entities=1",
+    "count": 20,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}
+

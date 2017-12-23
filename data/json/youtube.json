@@ -1,0 +1,911 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/02xXcM5X_aFRMCizd97x3F2v4PM\"",
+ "nextPageToken": "CBQQAA",
+ "pageInfo": {
+  "totalResults": 84,
+  "resultsPerPage": 20
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/vZNkTkBrK2LFIJy02FDXtzYccrw\"",
+   "id": "UEx6SDZuNHpYdWNrcFhHYk1MMXk3cEh4Q2tNUllZb0ctYy41NkI0NEY2RDEwNTU3Q0M2",
+   "snippet": {
+    "publishedAt": "2015-10-05T07:48:56.000Z",
+    "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+    "title": "Zig Zag Decryption - Computerphile",
+    "description": "XOR encryption is flawed. Professor Brailsford explains the zig-zag method that can reveal the precious key stream.\n\nFishy Codes – Bletchley's Other Secret: https://youtu.be/Ou_9ntYRzzw\nXOR and the Half Adder: https://youtu.be/VPw9vPN-3ac \nColossus & Bletchley Park: https://youtu.be/9HH-asvLAj4  \n5 Hole Paper Tape: https://youtu.be/JafQYA7vV6s\n\nThe Professor's Supporting Documents:\n\nSean/Dave ZigZag document: http://bit.ly/computerphileZigZag \nC Program to play with: http://bit.ly/ComputerphileZigZagCprog  \nThe real life decryption: http://bit.ly/ComputerphileTiltman \nTeleprinter codes: http://bit.ly/computerphile5holetape \n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputer Science at the University of Nottingham: http://bit.ly/nottscomputer\n\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/yxx3Bkmv3ck/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/yxx3Bkmv3ck/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/yxx3Bkmv3ck/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/yxx3Bkmv3ck/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/yxx3Bkmv3ck/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Computerphile",
+    "playlistId": "PLzH6n4zXuckpXGbML1y7pHxCkMRYYoG-c",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "yxx3Bkmv3ck"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/7dlAzFsd8gq5tJ_j2V1Fyc93YKk\"",
+   "id": "UEx6SDZuNHpYdWNrcFhHYk1MMXk3cEh4Q2tNUllZb0ctYy4wMTcyMDhGQUE4NTIzM0Y5",
+   "snippet": {
+    "publishedAt": "2015-10-05T07:48:56.000Z",
+    "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+    "title": "Fishy Codes: Bletchley's Other Secret - Computerphile",
+    "description": "Hitler's High Command didn't use Enigma, they used a faster system called Lorenz, but when Allied forces first encountered it, they had no idea what it was and code-named it 'Tunny' (Tuna). Professor Brailsford explains why this relates to the early days of Computer Science\n\nNext Video in this series: https://youtu.be/yxx3Bkmv3ck \n\nThe Professor's Notes: \nUndulator Sheet: http://bit.ly/computerphileundulator \nTeleprinter Code: http://bit.ly/computerphile5holetape \n\nColossus & Bletchley Park: https://youtu.be/9HH-asvLAj4 \nEnigma Playlist: https://www.youtube.com/playlist?list... \n5 Hole Paper Tape: https://youtu.be/JafQYA7vV6s \nXOR and the Half Adder: https://youtu.be/VPw9vPN-3ac  \nJPEG DCT: https://youtu.be/Q2aEzeMDHMA \nComputer That Changed Everything: https://youtu.be/6LYRgrqJgDc\nInside the Computer (EDSAC): https://youtu.be/Yc945sNB0uA \n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputer Science at the University of Nottingham: http://bit.ly/nottscomputer\n\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Ou_9ntYRzzw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Ou_9ntYRzzw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Ou_9ntYRzzw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Ou_9ntYRzzw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Ou_9ntYRzzw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Computerphile",
+    "playlistId": "PLzH6n4zXuckpXGbML1y7pHxCkMRYYoG-c",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Ou_9ntYRzzw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/9X-lalinb_oU7MrXby9Y08yDrV0\"",
+   "id": "UEx6SDZuNHpYdWNrcFhHYk1MMXk3cEh4Q2tNUllZb0ctYy4wOTA3OTZBNzVEMTUzOTMy",
+   "snippet": {
+    "publishedAt": "2015-10-05T07:48:56.000Z",
+    "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+    "title": "The Great 202 Jailbreak - Computerphile",
+    "description": "Before laser-printers, high quality print-outs were the domain of typesetters, expensive and tightly controlled. In 1979 a Bell Labs team reverse engineered one in their summer vacation. Professor Brailsford has the details.\n\nEXTRA BITS - More on Printing and Typesetting History: https://www.youtube.com/watch?v=HdModNEK_1U\nMainframes and the Unix Revolution: http://youtu.be/-rPPqm44xLs\n\nTo find out how the 1980 Bell Labs `vacation memo' was completely rebuilt,\nin 2013, visit:\n\nhttp://www.eprg.org/papers/202paper.pdf\n\nIf you want to see the `vacation memo' itself -- in its original scanned-in form and after being rebuilt --  then visit:\n\nhttp://www.cs.princeton.edu/~bwk/202\n\nThe memorandum gives an outline of how the `reverse engineering' of the 202 was accomplished.\n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputer Science at the University of Nottingham: http://bit.ly/nottscomputer\n\nComputerphile is a sister project to Brady Haran's Numberphile. See the full list of Brady's video projects at: http://bit.ly/bradychannels",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/CVxeuwlvf8w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/CVxeuwlvf8w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/CVxeuwlvf8w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/CVxeuwlvf8w/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/CVxeuwlvf8w/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Computerphile",
+    "playlistId": "PLzH6n4zXuckpXGbML1y7pHxCkMRYYoG-c",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "CVxeuwlvf8w"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/fo_9k6NcXA3Nro6nlpDXSbtY7ik\"",
+   "id": "UEx6SDZuNHpYdWNrcFhHYk1MMXk3cEh4Q2tNUllZb0ctYy4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2015-10-05T07:48:56.000Z",
+    "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+    "title": "Why Electronic Voting is a BAD Idea - Computerphile",
+    "description": "Voting is centuries old, why can't we move with the times and use our phones, tablets and computers? Tom Scott lays out why e-voting is such a bad idea.\n\nMore from Tom Scott: http://www.youtube.com/user/enyay and https://twitter.com/tomscott\n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputer Science at the University of Nottingham: http://bit.ly/nottscomputer\n\nComputerphile is a sister project to Brady Haran's Numberphile. See the full list of Brady's video projects at: http://bit.ly/bradychannels",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/w3_0x6oaDmI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/w3_0x6oaDmI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/w3_0x6oaDmI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/w3_0x6oaDmI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/w3_0x6oaDmI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Computerphile",
+    "playlistId": "PLzH6n4zXuckpXGbML1y7pHxCkMRYYoG-c",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "w3_0x6oaDmI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/QoisGBtNUPoexF9BPqTYCnrYH3Q\"",
+   "id": "UEx6SDZuNHpYdWNrcFhHYk1MMXk3cEh4Q2tNUllZb0ctYy41MzJCQjBCNDIyRkJDN0VD",
+   "snippet": {
+    "publishedAt": "2015-10-05T07:50:25.000Z",
+    "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+    "title": "\"C\" Programming Language: Brian Kernighan - Computerphile",
+    "description": "\"C\" is one of the most widely used programming languages of all time. Prof Brian Kernighan wrote the book on \"C\", well, co-wrote it - on a visit to the University of Nottingham we asked him how it came about. \n\n\"Most Difficult Program\" - Ackermann Function: http://youtu.be/i7sm9dzFtEI  \nEXTRA BITS: COMING SOON\nComputer That Changed Everything - Altair 8800: https://youtu.be/6LYRgrqJgDc \nFactory of Ideas - Working at Bell Labs: https://youtu.be/QFK6RG47bww\n\nMore from BWK on other computer languages at: https://www.youtube.com/watch?v=Sg4U4r_AgJU\n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputer Science at the University of Nottingham: http://bit.ly/nottscomputer\n\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/de2Hsvxaf8M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/de2Hsvxaf8M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/de2Hsvxaf8M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/de2Hsvxaf8M/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/de2Hsvxaf8M/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Computerphile",
+    "playlistId": "PLzH6n4zXuckpXGbML1y7pHxCkMRYYoG-c",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "de2Hsvxaf8M"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/dT0ryNDKyeMnOybTHU64PIKawhI\"",
+   "id": "UEx6SDZuNHpYdWNrcFhHYk1MMXk3cEh4Q2tNUllZb0ctYy5DQUNERDQ2NkIzRUQxNTY1",
+   "snippet": {
+    "publishedAt": "2015-10-05T07:51:49.000Z",
+    "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+    "title": "Colossus & Bletchley Park - Computerphile",
+    "description": "Colossus was one of the very first electronic, special purpose, computers and it was created almost two years earlier than the better known ENIAC. We visit Bletchley Park, home of the code breakers, and TNMoC, The National Museum of Computing. Professor Brailsford shows us the Colossus replica.\n\nThe Most Difficult Program to Compute?: https://youtu.be/i7sm9dzFtEI \nComputer that Changed Everything: https://youtu.be/6LYRgrqJgDc \nTuring's Enigma Problem: https://www.youtube.com/playlist?list=PLzH6n4zXuckodsatCTEuxaygCHizMS0_I \nJPEG DCT (Discrete Cosine Transform): https://youtu.be/Q2aEzeMDHMA \n5 Hole Paper Tape: https://youtu.be/JafQYA7vV6s \n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputer Science at the University of Nottingham: http://bit.ly/nottscomputer\n\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9HH-asvLAj4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9HH-asvLAj4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9HH-asvLAj4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/9HH-asvLAj4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/9HH-asvLAj4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Computerphile",
+    "playlistId": "PLzH6n4zXuckpXGbML1y7pHxCkMRYYoG-c",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "9HH-asvLAj4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/BXR-xLf13hGc-yHHUWXqDtGg6Mo\"",
+   "id": "UEx6SDZuNHpYdWNrcFhHYk1MMXk3cEh4Q2tNUllZb0ctYy45NDk1REZENzhEMzU5MDQz",
+   "snippet": {
+    "publishedAt": "2015-10-05T07:53:47.000Z",
+    "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+    "title": "The Most Difficult Program to Compute? - Computerphile",
+    "description": "The story of recursion continues as Professor Brailsford explains one of the most difficult programs to compute: Ackermann's function.\n\nProfessor Brailsford's programs: http://bit.ly/1nhKtW4 \n\nFollow Up Film from the Prof in response to this film: https://www.youtube.com/watch?v=uNACwX-O5lk \n\nWhat on Earth is Recursion?: http://youtu.be/Mv9NEXX1VHc \nFibonacci Programming: http://youtu.be/7t_pTlH9HwA \nHeartbleed, Running the Code: http://youtu.be/1dOCHwf8zVQ \nVR Series: COMING SOON!\n\nPlease note, Ackermann is spelled incorrectly with one \"n\" on the title plate - Apologies\n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputer Science at the University of Nottingham: http://bit.ly/nottscomputer\n\nComputerphile is a sister project to Brady Haran's Numberphile. See the full list of Brady's video projects at: http://bit.ly/bradychannels",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/i7sm9dzFtEI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/i7sm9dzFtEI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/i7sm9dzFtEI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/i7sm9dzFtEI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/i7sm9dzFtEI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Computerphile",
+    "playlistId": "PLzH6n4zXuckpXGbML1y7pHxCkMRYYoG-c",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "i7sm9dzFtEI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/qD_UguixNm04eRofPqNKq8CNYVc\"",
+   "id": "UEx6SDZuNHpYdWNrcFhHYk1MMXk3cEh4Q2tNUllZb0ctYy5GNjNDRDREMDQxOThCMDQ2",
+   "snippet": {
+    "publishedAt": "2015-10-05T10:55:03.000Z",
+    "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+    "title": "Turing's Enigma Problem (Part 1) - Computerphile",
+    "description": "The Enigma cipher machine, said to be unbreakable. Alan Turing had a pivotal role in cracking Enigma codes during WWII. Professor Brailsford takes us through just what Turing and his team were up against.\n\nEngima Part 2: http://youtu.be/kj_7Jc1mS9k\n\nProfessor Brailsford's notes: http://bit.ly/enigmapart2  \n\n158,962,555,217,826,360,000 – Numberphile: http://youtu.be/G2_Q9FoD-oQ \nFlaw in the Enigma Code - Numberphile: http://youtu.be/V4V2bpZlqx8 \nPunch Card Programming: http://youtu.be/KG2M4ttzBnY \nPublic Key Cryptography: http://youtu.be/GSIDS_lvRv4 \n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputer Science at the University of Nottingham: http://bit.ly/nottscomputer\n\nComputerphile is a sister project to Brady Haran's Numberphile. See the full list of Brady's video projects at: http://bit.ly/bradychannels",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/d2NWPG2gB_A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/d2NWPG2gB_A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/d2NWPG2gB_A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/d2NWPG2gB_A/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/d2NWPG2gB_A/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Computerphile",
+    "playlistId": "PLzH6n4zXuckpXGbML1y7pHxCkMRYYoG-c",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "d2NWPG2gB_A"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/U3JhPErnmJLOrV1ywpojmEi9myg\"",
+   "id": "UEx6SDZuNHpYdWNrcFhHYk1MMXk3cEh4Q2tNUllZb0ctYy4zMDg5MkQ5MEVDMEM1NTg2",
+   "snippet": {
+    "publishedAt": "2015-10-20T09:44:07.000Z",
+    "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+    "title": "Tackling Enigma (Turing's Enigma Problem Part 2) - Computerphile",
+    "description": "Just how did the team at Bletchley Park tackle the problem of decoding Enigma? In Part Two of our series on \"The Real\" Imitation Game, Professor Brailsford explains how they did it.\n\nPart One of this series: \nTuring's Enigma Problem: http://youtu.be/d2NWPG2gB_A  \n\nProfessor Brailsford's notes: http://bit.ly/enigmapart2 \n\nNumberphile on Enigma: http://youtu.be/G2_Q9FoD-oQ \n\nHistory of Undecidability: http://www.youtube.com/playlist?list=PLzH6n4zXuckpIQPv8hiHpJkSyv0fmXEYr \nMainframes and the Unix Revolution: http://youtu.be/-rPPqm44xLs \nTuring Machines Explained: http://youtu.be/dNRDvLACg5Q \nEXTRA BITS - Banburismus Secret: http://youtu.be/f16iwjntggc \n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputer Science at the University of Nottingham: http://bit.ly/nottscomputer\n\nComputerphile is a sister project to Brady Haran's Numberphile. See the full list of Brady's video projects at: http://bit.ly/bradychannels",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kj_7Jc1mS9k/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kj_7Jc1mS9k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kj_7Jc1mS9k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/kj_7Jc1mS9k/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/kj_7Jc1mS9k/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Computerphile",
+    "playlistId": "PLzH6n4zXuckpXGbML1y7pHxCkMRYYoG-c",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "kj_7Jc1mS9k"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/44_1SkE5scOZsKk01RzvYCHb380\"",
+   "id": "UEx6SDZuNHpYdWNrcFhHYk1MMXk3cEh4Q2tNUllZb0ctYy5EMEEwRUY5M0RDRTU3NDJC",
+   "snippet": {
+    "publishedAt": "2015-10-20T09:43:34.000Z",
+    "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+    "title": "Connecting Universities - Computerphile",
+    "description": "Big data research needs high performance computing and fast networks but so do thousands of students watching Netflix. Jisc run Janet, the network that connects academia in the UK. Jeremy Sharp, Jisc's Director of Strategic Technologies takes us through their data centre installation. \n\nInside a Data Centre: https://youtu.be/fd3kSdu4W7c\nSuper Computer & the Milky Way: https://youtu.be/5KEhhW8TOGk \nThe GRID, CERN's Global Supercomputer: https://youtu.be/cj8ZNgnzSSU \nEXTRA BITS - Connecting Universities: https://youtu.be/1NWhuwCnWnE\n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputer Science at the University of Nottingham: http://bit.ly/nottscomputer\n\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Bq1b4wixxJM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Bq1b4wixxJM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Bq1b4wixxJM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Bq1b4wixxJM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Bq1b4wixxJM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Computerphile",
+    "playlistId": "PLzH6n4zXuckpXGbML1y7pHxCkMRYYoG-c",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Bq1b4wixxJM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/K3c9Qxnww7UOY64uUbqCtj3r4SI\"",
+   "id": "UEx6SDZuNHpYdWNrcFhHYk1MMXk3cEh4Q2tNUllZb0ctYy40NzZCMERDMjVEN0RFRThB",
+   "snippet": {
+    "publishedAt": "2015-10-08T12:56:51.000Z",
+    "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+    "title": "Why Do We Need IP Addresses? - Computerphile",
+    "description": "A Computerphile viewer asked the question: Why do we need IP addresses when every network interface has its own Mac address? - I put it to Dr Richard Mortier; University Lecturer in the Computer Laboratory at the University of Cambridge \n\nMachine Learning Methods: https://youtu.be/qDbpYUbf3e0 \nHow Search Engines Treat Data: https://youtu.be/vrjAIBgxm_w \nThe Network Stack: https://youtu.be/PG9oKZdFb7w \nIP Addresses & the Internet: https://youtu.be/L6bDA5FK6gs \n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputer Science at the University of Nottingham: http://bit.ly/nottscomputer\n\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/iGPXkxeOfdk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/iGPXkxeOfdk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/iGPXkxeOfdk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/iGPXkxeOfdk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/iGPXkxeOfdk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Computerphile",
+    "playlistId": "PLzH6n4zXuckpXGbML1y7pHxCkMRYYoG-c",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "iGPXkxeOfdk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/qjtmvLfINDXBCcPFSLmVnf57lKI\"",
+   "id": "UEx6SDZuNHpYdWNrcFhHYk1MMXk3cEh4Q2tNUllZb0ctYy45ODRDNTg0QjA4NkFBNkQy",
+   "snippet": {
+    "publishedAt": "2015-10-20T09:43:34.000Z",
+    "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+    "title": "Chip & PIN Fraud Explained - Computerphile",
+    "description": "We rely on Chip & PIN machines to pay for things in a safe way, so how are they being compromised? Ross Anderson is Professor of Security Engineering at the Computer Laboratory, University of Cambridge.\n\nMan in the Middle Attacks: https://youtu.be/-enHfpHMBo4 \nAI Worst Case Scenario - Deadly Truth of AI: https://youtu.be/tcdVC4e6EV4 \nThe Problem with JPEG: https://youtu.be/yBX8GFqt6GA \n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputer Science at the University of Nottingham: http://bit.ly/nottscomputer\n\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Ks0SOn8hjG8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Ks0SOn8hjG8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Ks0SOn8hjG8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Ks0SOn8hjG8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Ks0SOn8hjG8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Computerphile",
+    "playlistId": "PLzH6n4zXuckpXGbML1y7pHxCkMRYYoG-c",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Ks0SOn8hjG8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/uMTLfmfBASlOZoJQJAao9WRk0xI\"",
+   "id": "UEx6SDZuNHpYdWNrcFhHYk1MMXk3cEh4Q2tNUllZb0ctYy41Mzk2QTAxMTkzNDk4MDhF",
+   "snippet": {
+    "publishedAt": "2015-10-20T20:52:01.000Z",
+    "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+    "title": "Flip Flops, Latches & Memory Details - Computerphile",
+    "description": "Audible free book: http://www.audible.com/computerphile \nCircuits that use latches to store data are a cornerstone of computing. Dr Steve Bagley shows us how to put one together.\n\nHow Computer Memory Works (Part 1): http://youtu.be/XETZoRYdtkw \n\nHow Gangnam Style Broke YouTube: http://youtu.be/vA0Rl6Ne5C8  \nWhy Internet Slows Down When it's Busy: http://youtu.be/TSJw_oQklz8 \nOpening up the 30yr old Mac: http://youtu.be/wFJrHuSXnZM \n\n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputer Science at the University of Nottingham: http://bit.ly/nottscomputer\n\nComputerphile is a sister project to Brady Haran's Numberphile. See the full list of Brady's video projects at: http://bit.ly/bradychannels",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-Ecf7lb4aZ0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-Ecf7lb4aZ0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-Ecf7lb4aZ0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-Ecf7lb4aZ0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/-Ecf7lb4aZ0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Computerphile",
+    "playlistId": "PLzH6n4zXuckpXGbML1y7pHxCkMRYYoG-c",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-Ecf7lb4aZ0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/3F3cw2r-Y5h_6_Q23oMPF2bU_is\"",
+   "id": "UEx6SDZuNHpYdWNrcFhHYk1MMXk3cEh4Q2tNUllZb0ctYy5EQUE1NTFDRjcwMDg0NEMz",
+   "snippet": {
+    "publishedAt": "2015-11-05T10:15:39.000Z",
+    "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+    "title": "The Factory of Ideas: Working at Bell Labs - Computerphile",
+    "description": "Bell Labs pioneered some of the most important inventions of the 20th century, what was it like to be part of that? Professor Brian Kernighan was there. \n\nThe C Programming Language: https://t.co/YFItbi64BE\n5 Hole Paper Tape: https://youtu.be/JafQYA7vV6s \nPunch Card Programming: https://youtu.be/KG2M4ttzBnY \nThe Great 202 Jailbreak: https://youtu.be/CVxeuwlvf8w \n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputer Science at the University of Nottingham: http://bit.ly/nottscomputer\n\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QFK6RG47bww/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QFK6RG47bww/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QFK6RG47bww/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/QFK6RG47bww/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/QFK6RG47bww/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Computerphile",
+    "playlistId": "PLzH6n4zXuckpXGbML1y7pHxCkMRYYoG-c",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "QFK6RG47bww"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/6Z8wuDbookudeXx-OD1GnTDXibs\"",
+   "id": "UEx6SDZuNHpYdWNrcFhHYk1MMXk3cEh4Q2tNUllZb0ctYy41QTY1Q0UxMTVCODczNThE",
+   "snippet": {
+    "publishedAt": "2015-12-10T16:48:25.000Z",
+    "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+    "title": "Raspberry Pi Zero - the $5 Computer - Computerphile",
+    "description": "A $5 computer - where's the catch? Well, there doesn't seem to be one. Dr Steve \"Heartbleed\" Bagley explains the Raspberry Pi Zero.\n\nChip & PIN Fraud: https://youtu.be/Ks0SOn8hjG8\nSteve Furber on BBC Micro: https://youtu.be/y4WG549i3YY\nWhy Asimov's Laws of Robotics Don't Work: https://youtu.be/7PKx3kS7f4A\nFestive Flashing Lights: https://youtu.be/o2RFdQMi4mg\n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputer Science at the University of Nottingham: http://bit.ly/nottscomputer\n\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/WR0ghM3U0M4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/WR0ghM3U0M4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/WR0ghM3U0M4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/WR0ghM3U0M4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/WR0ghM3U0M4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Computerphile",
+    "playlistId": "PLzH6n4zXuckpXGbML1y7pHxCkMRYYoG-c",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "WR0ghM3U0M4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/JnVyblTsIwl54LM8M_8ZBA90Om4\"",
+   "id": "UEx6SDZuNHpYdWNrcFhHYk1MMXk3cEh4Q2tNUllZb0ctYy4yMUQyQTQzMjRDNzMyQTMy",
+   "snippet": {
+    "publishedAt": "2015-12-10T16:48:25.000Z",
+    "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+    "title": "How Bitcoin Works - Computerphile",
+    "description": "Digital currency, how does it work, what's a data miner and will Bitcoin last? We asked Professor Ross Anderson of the University of Cambridge Computer Laboratory.\n\nThe Problem with BitCoin: https://youtu.be/s2XHyzPA9Zc \nChip & PIN Fraud: https://youtu.be/Ks0SOn8hjG8\n$5 Computer – Raspberry Pi Zero: https://youtu.be/WR0ghM3U0M4 \nWhy Computers Use Binary: https://youtu.be/thrx3SBEpL8 \nPublic Key Cryptography: https://youtu.be/GSIDS_lvRv4  \n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputer Science at the University of Nottingham: http://bit.ly/nottscomputer\n\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JyxRH18YlpA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JyxRH18YlpA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JyxRH18YlpA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/JyxRH18YlpA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/JyxRH18YlpA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Computerphile",
+    "playlistId": "PLzH6n4zXuckpXGbML1y7pHxCkMRYYoG-c",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "JyxRH18YlpA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/MHymc4nErA5QL4uZK4i8oZQrGzQ\"",
+   "id": "UEx6SDZuNHpYdWNrcFhHYk1MMXk3cEh4Q2tNUllZb0ctYy45RTgxNDRBMzUwRjQ0MDhC",
+   "snippet": {
+    "publishedAt": "2015-12-10T16:48:25.000Z",
+    "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+    "title": "Unix Pipeline (Brian Kernighan) - Computerphile",
+    "description": "Just what is a pipeline in the computer science sense? We asked Computer Science guru Professor Brian Kernighan\n\nWhy Asimov's Laws of Robotics Don't Work: https://youtu.be/7PKx3kS7f4A \nBrian Kerninghan on Bell Labs: https://youtu.be/QFK6RG47bww\nDon Knuth on Email: https://youtu.be/QS8qwMna8_o \nComputer That Changed Everything: https://youtu.be/6LYRgrqJgDc\n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputer Science at the University of Nottingham: http://bit.ly/nottscomputer\n\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bKzonnwoR2I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bKzonnwoR2I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bKzonnwoR2I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/bKzonnwoR2I/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/bKzonnwoR2I/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Computerphile",
+    "playlistId": "PLzH6n4zXuckpXGbML1y7pHxCkMRYYoG-c",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "bKzonnwoR2I"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/6LfUc3V6PrvufTcE8N3GF0sTxQY\"",
+   "id": "UEx6SDZuNHpYdWNrcFhHYk1MMXk3cEh4Q2tNUllZb0ctYy5ENDU4Q0M4RDExNzM1Mjcy",
+   "snippet": {
+    "publishedAt": "2015-12-10T16:49:31.000Z",
+    "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+    "title": "UNIX Special: Profs Kernighan & Brailsford - Computerphile",
+    "description": "BWK, Professor Brian Kernighan visited Nottingham, so Professor Brailsford couldn't resist an 'on-camera' chat about Unix, Bell Labs and other aspects of Brian's glittering career. \n\nBrian Kerninghan on Bell Labs: https://youtu.be/QFK6RG47bww\n\"C\" Programming Language: Brian Kernighan: https://youtu.be/de2Hsvxaf8M\nThe Great 202 Jailbreak: https://youtu.be/CVxeuwlvf8w\nComputer That Changed Everything: https://youtu.be/6LYRgrqJgDc\n\nMore from BWK on other computer languages at: https://www.youtube.com/watch?v=Sg4U4r_AgJU \n\nThanks to Richard Minkley for holding our 3rd camera, and Dr Steve 'Heartbleed' Bagley for helping out with the microphones!\n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputer Science at the University of Nottingham: http://bit.ly/nottscomputer\n\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vT_J6xc-Az0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vT_J6xc-Az0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vT_J6xc-Az0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/vT_J6xc-Az0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/vT_J6xc-Az0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Computerphile",
+    "playlistId": "PLzH6n4zXuckpXGbML1y7pHxCkMRYYoG-c",
+    "position": 17,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "vT_J6xc-Az0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/DMK_B8WXKQCrGZPxyCUZBCKAY8A\"",
+   "id": "UEx6SDZuNHpYdWNrcFhHYk1MMXk3cEh4Q2tNUllZb0ctYy4yMDhBMkNBNjRDMjQxQTg1",
+   "snippet": {
+    "publishedAt": "2015-12-14T09:54:46.000Z",
+    "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+    "title": "Turing Machine Primer - Computerphile",
+    "description": "This Primer is to accompany the 'Busy Beaver Turing Machines' film which can be viewed here: http://youtu.be/CE8UhcyJS0I \n\nProfessor Brailsford's code and further reading: http://bit.ly/busybeaver \n\nTuring and the Halting Problem: http://youtu.be/macM_MtS_w4 \nBusy Beaver Turing Machines: http://youtu.be/CE8UhcyJS0I \nDomino Addition – Numberphile: http://youtu.be/lNuPy-r1GuQ \nAckermann Follow Up: http://youtu.be/uNACwX-O5lk \n\n'Turing Machines Collection' Playlist: http://www.youtube.com/playlist?list=PLzH6n4zXuckrEzV0CB1xXbSdsP_a7VUoK \n\n“The Most Difficult Program to Compute?” (Original Ackermann Film): http://youtu.be/i7sm9dzFtEI \n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputer Science at the University of Nottingham: http://bit.ly/nottscomputer\n\nComputerphile is a sister project to Brady Haran's Numberphile. See the full list of Brady's video projects at: http://bit.ly/bradychannels",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DILF8usqp7M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DILF8usqp7M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DILF8usqp7M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/DILF8usqp7M/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/DILF8usqp7M/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Computerphile",
+    "playlistId": "PLzH6n4zXuckpXGbML1y7pHxCkMRYYoG-c",
+    "position": 18,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "DILF8usqp7M"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"S8kisgyDEblalhHF9ooXPiFFrkc/kfDAFqLfyhg_OmIY8Ix57Ac7UUc\"",
+   "id": "UEx6SDZuNHpYdWNrcFhHYk1MMXk3cEh4Q2tNUllZb0ctYy5GM0Q3M0MzMzY5NTJFNTdE",
+   "snippet": {
+    "publishedAt": "2016-01-25T16:32:50.000Z",
+    "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+    "title": "Why Asimov's Laws of Robotics Don't Work - Computerphile",
+    "description": "Audible Free Book: http://www.audible.com/computerphile \nThree or four laws to make robots and AI safe - should be simple right? Rob Miles on why these simple laws are so complicated.\n\nSilicon Brain: 1,000,000 ARM Cores: https://youtu.be/2e06C-yUwlc \nChip & PIN Fraud: https://youtu.be/Ks0SOn8hjG8 \nAI Worst Case Scenario - Deadly Truth of AI: https://youtu.be/tcdVC4e6EV4 \nThe Singularity & Friendly AI: https://youtu.be/uA9mxq3gneE \nAI Self Improvement: https://youtu.be/5qfIgCiYlfY \n\nThanks to Nottingham Hackspace for the location\n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputer Science at the University of Nottingham: http://bit.ly/nottscomputer\n\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7PKx3kS7f4A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7PKx3kS7f4A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7PKx3kS7f4A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/7PKx3kS7f4A/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/7PKx3kS7f4A/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Computerphile",
+    "playlistId": "PLzH6n4zXuckpXGbML1y7pHxCkMRYYoG-c",
+    "position": 19,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "7PKx3kS7f4A"
+    }
+   }
+  }
+ ]
+}
