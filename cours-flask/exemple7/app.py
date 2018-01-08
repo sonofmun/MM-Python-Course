@@ -2,8 +2,8 @@ from flask import Flask, render_template
 
 app = Flask("Application")
 
-lieux = [
-    {
+lieux = {
+    0: {
         "nom": "Col. Lugdunum",
         "moderne": "Lyon",
         "latlong": [45.762095775, 4.822438025],
@@ -12,14 +12,14 @@ lieux = [
                        "Agrippa was involved in its expansion and two Roman emperors, Claudius and Caracalla, "
                        "were born there."
     },
-    {
+    1: {
         "nom": "Samarobriva Ambianorum",
         "moderne": "Amiens",
         "type": "ville",
         "description": "An ancient place, cited: BAtlas 11 C3 Samarobriva Ambianorum ",
         "latlong": [49.8936075, 2.297948]
     }
-]
+}
 
 
 @app.route("/")
