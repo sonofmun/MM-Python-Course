@@ -12,3 +12,6 @@ env/
 .~lock*
 __pycache__
 .idea
+pyhum
+pydf
+styles
