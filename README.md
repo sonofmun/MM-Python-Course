@@ -1,4 +1,7 @@
-# Python Programming for the Humanities
+Introduction à Python et au développement web avec Python pour les sciences humaines
+===
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Le langage de programmation Python est souvent utilisé dans les domaines scientifiques aujourd'hui. C’est un langage de programmation relativement accessible et adapté aux universitaires qui travaillent dans le domaine des humanités. Choisir Python s’avère très pertinent quand il s'agit de gérer des données textuelles, très utilisées dans les humanités, mais aussi quand il faut écrire un site web, gérer des données numériques, écrire un script pour faire des transformations, etc. Dans ce cahier virtuel d'exercices, nous vous présenterons le langage et apprendrons les basiques liés à l'algorithmique. Ce livre n'attend de vous aucun prérequis de programmation. Ce livre est une traduction et adaptation de quatre chapitres de Matt Munson (eux mêmes issus de 10 chapitres écrits par Folgert Karsdorp du KNAW).
 
@@ -84,8 +87,13 @@ ipython3 notebook
 
 Si tout va bien, cela devrait ouvrir votre navigateur sur la page http://127.0.0.1:8888/ qui s'appelle IP[y]: Notebook.
 
-## Contributors
+## Contributeurs
+
+- Mike Kestemont
 - Folgert Karsdorp
 - Maarten van Gompel
 - Matt Munson
 - Thibault Clérice
+
+## Ressources supplémentaires
+- http://flask.pocoo.org/docs/0.12/deploying/mod_wsgi/
