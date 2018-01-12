@@ -14,6 +14,8 @@ SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='TRADITIONAL,ALLOW_INVALID_DATES';
 -- -----------------------------------------------------
 -- Schema gazetteer
 -- -----------------------------------------------------
+DROP SCHEMA IF EXISTS `gazetteer`;
+
 CREATE SCHEMA IF NOT EXISTS `gazetteer` DEFAULT CHARACTER SET utf8 ;
 USE `gazetteer` ;
 
@@ -104,7 +106,6 @@ GRANT ALL ON `gazetteer`.* TO 'gazetteer_user';
 GRANT SELECT ON TABLE `gazetteer`.* TO 'gazetteer_user';
 GRANT SELECT, INSERT, TRIGGER ON TABLE `gazetteer`.* TO 'gazetteer_user';
 GRANT SELECT, INSERT, TRIGGER, UPDATE, DELETE ON TABLE `gazetteer`.* TO 'gazetteer_user';
-GRANT EXECUTE ON ROUTINE `gazetteer`.* TO 'gazetteer_user';
 
 SET SQL_MODE=@OLD_SQL_MODE;
 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS;
