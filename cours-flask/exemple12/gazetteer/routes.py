@@ -1,8 +1,8 @@
 from flask import render_template
 
 
-from ..app import app
-from ..modeles.donnees import Place
+from .app import app
+from .modeles.donnees import Place
 
 
 @app.route("/")
