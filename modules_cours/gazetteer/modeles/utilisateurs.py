@@ -10,7 +10,6 @@ class User(UserMixin, db.Model):
     user_login = db.Column(db.String(45), nullable=False, unique=True)
     user_email = db.Column(db.Text, nullable=False)
     user_password = db.Column(db.String(100), nullable=False)
-    authorships = db.relationship("Authorship", back_populates="user")
 
     @staticmethod
     def identification(login, motdepasse):
@@ -86,17 +85,6 @@ class User(UserMixin, db.Model):
         """
         return self.user_id
 
-    def to_jsonapi_dict(self):
-        """ It ressembles a little JSON API format but it is not completely compatible
-
-        :return:
-        """
-        return {
-            "type": "people",
-            "attributes": {
-                "name": self.user_nom
-            }
-        }
 
 @login.user_loader
 def trouver_utilisateur_via_id(identifiant):
