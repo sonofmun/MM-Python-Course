@@ -17,3 +17,4 @@ pydf
 styles
 *.bak
 pages.csv
+*.sqlite
