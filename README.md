@@ -50,7 +50,7 @@ pip install -r requirements.txt
 Tapez désormais
 
 ```shell
-ipython notebook --matplotlib=inline
+jupyter notebook
 ```
 
 Si tout va bien, cela devrait ouvrir votre navigateur sur la page http://127.0.0.1:8888/ qui s'appelle IP[y]: Notebook.
@@ -85,7 +85,7 @@ pip install -r requirements.txt
 Cela installera les packages nécessaires pour le cours. Une fois ces packages installés, il suffira de taper 
 
 ```shell
-ipython3 notebook
+jupyter notebook
 ```
 
 Si tout va bien, cela devrait ouvrir votre navigateur sur la page http://127.0.0.1:8888/ qui s'appelle IP[y]: Notebook.
