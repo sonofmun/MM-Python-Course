@@ -4,3 +4,4 @@ lxml
 ipython
 jupyter
 flask
+Click
