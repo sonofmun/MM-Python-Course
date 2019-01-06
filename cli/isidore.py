@@ -32,7 +32,9 @@ def parser_reponse_isidore(data):
         items.append({
             "uri": item["@uri"],
             "title": item["isidore"]["title"],
-            "date": item["isidore"]["date"]["normalizedDate"],
+            # dictionnaire.get(cle, valeur-par-defaut) : valeur-par-defaut est utilisée si clé n'est
+            # pas présente
+            "date": item["isidore"]["date"].get("normalizedDate", "0000-00-00"),
             "author": []
         })
         # Les auteurs peuvent être plusieurs : dans ce cas, on a une liste sur laquelle on bouclera
@@ -52,46 +54,56 @@ def parser_reponse_isidore(data):
             if isinstance(items[-1]["title"], dict):
                 items[-1]["title"] = items[-1]["title"]["$"]
 
-    return nb_items, total_page, items
+    return nb_items, total_page, items, data["response"]["replies"]["page"].get("@next", None)
 
 
-def cherche_isidore(q, full=False):
+def cherche_isidore(q, full=False, page=1):
     """ Chercher sur isidore en faisant une requête
 
     :param q: Chaine de recherche
     :type q: str
     :param full: Recherche complète (itère sur toutes les pages)
     :type full: bool
+    :param page: Page à récupérer
+    :type page: int
     :returns: Tuple (
         Nombre de Résultats,
         Nombre de Pages,
         Liste de résultat sous forme de dictionnaire {uri, title, desc, author, date}
     )
     """
-    # On crée un objet pour récuperer tous les items
-    total_items = []
 
     # On exécute la requête
-    params = {"output": "json", "q": q}
+    params = {"output": "json", "q": q, "page": page}
     req = requests.get(ISIDORE, params=params)
 
     # On la parse
-    nb_items, total_page, items = parser_reponse_isidore(req.json())
+    nb_items, total_page, items, next_page = parser_reponse_isidore(req.json())
 
-    # On ajoute chacune des valeurs d'items à total_items
-    total_items.extend(items)
+    if full and next_page:
+        # On la parse
+        nb_items, total_page, new_items, next_page = cherche_isidore(q=q, full=full, page=next_page)
+        # On ajoute chacune des valeurs d'items à total_items
+        items.extend(new_items)
 
-    return nb_items, total_page, items
+    return nb_items, total_page, items, next_page
 
 
-@click.command()
+@click.group()
+def mon_groupe():
+    """ Groupes de commandes pour communiquer avec Isidore"""
+
+
+@mon_groupe.command("search")
 @click.argument("query", type=str)
+@click.option("-f", "--full",  is_flag=True, default=False,
+              help="Browse every page of results")
 @click.option("-o", "--output", "output_file", type=click.File(mode="w"), default=None,
               help="File in which to write, in a CSV manner, the results")
-def run(query, output_file):
+def run(query, full, output_file):
     """ Exécute une recherche sur Isidore.science en utilisant [QUERY]
     """
-    nb_items, total_page, items = cherche_isidore(query)
+    nb_items, total_page, items, next_page = cherche_isidore(query, full=full)
     print("Nombre de résultats : {}".format(nb_items))
     print("Nombre de résultats affichés : {}".format(len(items)))
     for item in items:
@@ -107,4 +119,4 @@ def run(query, output_file):
 # Si ce fichier est le fichier executé directement par python
 # Alors on exécute la commande
 if __name__ == "__main__":
-    run()
+    mon_groupe()
