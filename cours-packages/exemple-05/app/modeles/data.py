@@ -1,0 +1,1 @@
+DATA = "I AM DATA."
