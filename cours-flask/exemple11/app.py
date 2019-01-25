@@ -3,9 +3,10 @@ from flask_sqlalchemy import SQLAlchemy
 
 app = Flask("Application")
 # On configure la base de données
-app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://gazetteer_user:password@localhost/gazetteer'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///../db.sqlite'
 # On initie l'extension
 db = SQLAlchemy(app)
+
 
 # On crée notre modèle
 class Place(db.Model):
